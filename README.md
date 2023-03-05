@@ -1,4 +1,4 @@
 ## Welcome to Ono Lab website - MonoTockyLab 
-![MonoLab](/MonoTockyLab.github.io/docs/assets/MonoLab.jpg)
+![MonoLab](./assets/MonoLab.jpg)
 
 Under construction
