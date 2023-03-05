@@ -3,7 +3,7 @@
 
 Principal Investigator: Dr Masahiro Ono, Reader in Immunology, Imperial College London
 
-Dr Masahiro Ono is the developer of **T**imer-**o**f-**c**ell-**k**inetics-and-Activit**y**, **Tocky**, which uses Fluorescent Timer protein and thereby allows analysis of temporal dynamics os cell activities and development in vivo. This is realised by integrated tools using molecular biology, immunology, and computational analysis.
+Dr Masahiro Ono is the developer of **T**imer-**o**f-**c**ell-**k**inetics-and-Activit**y**, **Tocky**, which uses Fluorescent Timer protein and thereby allows analysis of temporal dynamics of cell activities and development *in vivo*. This is achieved by novel research tools integrating molecular biology, immunology, and computational analysis.
 
 Ono Lab provides solutions for **single cell data** and **flow cytometric data** using **Tocky analysis** and **Multidimensional analysis**.
 
