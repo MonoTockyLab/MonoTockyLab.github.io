@@ -11,7 +11,7 @@ Dr Ono did his undergraduate in Faculty of Medicine, Kyoto University (1993-1999
 
 [Professional homepage](https://www.imperial.ac.uk/people/m.ono)
 
-[MonoTockyLab](https://twitter.com/MonoTockyLab)
+[Twitter (MonoTockyLab)](https://twitter.com/MonoTockyLab)
 
 ![MonoLab](./docs/assets/Foxp3_thymus.JPG)
 
