@@ -23,4 +23,3 @@ Dr Ono did his undergraduate in Faculty of Medicine, Kyoto University (1993-1999
 ![MonoLab](./docs/assets/Foxp3_thymus.JPG)
 
 Under construction
-
