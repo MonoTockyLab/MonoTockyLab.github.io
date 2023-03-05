@@ -10,7 +10,7 @@ Dr Masahiro Ono is the pioneer and developer of **T**imer-**o**f-**c**ell-**k**i
 
 ### PI's biography:
 
-<img src="./docs/assets/Profile.jpg" width=30% height=30%>
+![MonoLab](./docs/assets/Profile.jpg)
 
 Dr Ono is an immunologist and expert in T-cell regulation. His research focuses on mechanisms of T cell activation and regulation in autoimmunity, infections, and cancer. He is the pioneer of the Timer-of-Cell-Kinetics-and-Activity (Tocky, とき), which analyses temporal changes of T-cell activities in vivo using Fluorescent Timer protein.
 
