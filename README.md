@@ -3,8 +3,7 @@
 
 The PI Dr Masahiro Ono is the developer of **T**imer-**o**f-**c**ell-**k**inetics-and-Activit**y**, **Tocky**, which uses Fluorescent Timer protein and thereby allows analysis of temporal dynamics os cell activities and development in vivo. This is realised by integrated tools using molecular biology, immunology, and computational analysis.
 
-Ono Lab provides solutions for **single cell data** and **flow cytometric data** 
-using **Tocky Analysis** and **Multidimensional analysis**
+Ono Lab provides solutions for **single cell data** and **flow cytometric data** using **Tocky analysis** and **Multidimensional analysis**.
 
 Dr Masahiro Ono is an immunologist and expert in T-cell regulation. His research focuses on mechanisms of T cell activation and regulation in autoimmunity, infections, and cancer. He is the pioneer of the Timer-of-Cell-Kinetics-and-Activity (Tocky, とき), which analyses temporal changes of T-cell activities in vivo using Fluorescent Timer protein.
 
