@@ -1,7 +1,7 @@
-# Welcome to Ono Lab website
+# Welcome to Ono Lab (Mono Lab) website
 <img src="./docs/assets/MonoLab.jpg" width=50% height=50%>
 
-**The Ono Lab** provides solutions for **single cell data** and **flow cytometric data** using **Tocky analysis** and **Multidimensional analysis**.
+**The Masahiro Ono Lab (Mono Lab)** provides solutions for **single cell data** and **flow cytometric data** using **Tocky analysis** and **Multidimensional analysis**.
 
 Principal Investigator: Dr Masahiro Ono, Reader in Immunology, Imperial College London
 
