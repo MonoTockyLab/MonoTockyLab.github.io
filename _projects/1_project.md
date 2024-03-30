@@ -39,7 +39,7 @@ Upon TCR stimulation, Nr4a3-Tocky T cells exhibit initial timer blue fluorescenc
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/flowtimer.gif" width="250" height="auto" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/timercourse.jpg" width="250" height="auto" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
