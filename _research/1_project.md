@@ -2,7 +2,7 @@
 layout: page
 title: Tocky publication 2018 (1)
 description: the original report of Tocky from the Ono lab
-img: assets/img/tocky/bacnr4a3.jpg
+img: assets/img/tocky/FlowTockyModel.jpg
 importance: 1
 category: primary research
 related_publications: true
@@ -12,7 +12,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/flowtimer.gif"  width="250" height="auto" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/FlowTockyModel.jpg"  width="250" height="auto" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/tocky/bacnr4a3.jpg" title="Nr4a3-Tocky construct" class="img-fluid rounded z-depth-1" %}
