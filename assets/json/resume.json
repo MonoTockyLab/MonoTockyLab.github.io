@@ -84,11 +84,25 @@
   ],
   "awards": [
     {
+        "title": "Kato Memorial Bioscience Foundation Research Award",
+        "date": "2007",
+        "awarder": "Kato Memorial Bioscience Foundation",
+        "url": "https://www.katokinen.or.jp/",
+        "summary": "Awarded for enabling pioneering exploration in the fields of molecular biology and immunology in Kyoto."
+    },
+    {
+        "title": "Human Frontier Science Program Long-Term Fellowship",
+        "date": "2013",
+        "awarder": "Human Frontier Science Program",
+        "url": "https://www.hfsp.org/",
+        "summary": "A three-year fellowship that facilitated my transition into Molecular and Systems Immunology, laying the groundwork for the conception of Tocky."
+    },
+    {
       "title": "BBSRC David Phillips Fellowship",
       "date": "2013",
       "awarder": "Biotechnology and Biological Sciences Research Council (BBSRC)",
       "url": "https://www.ukri.org/councils/bbsrc/",
-      "summary": "Five-year fellowship for launching the first laboratory at University College London."
+      "summary": "A five-year fellowship awarded for establishing my inaugural laboratory at University College London, which was instrumental in the development of Tocky."
     },
     {
         "title": "CRUK Foundation Programme Award",
@@ -268,7 +282,15 @@
   ],
 
   "projects": [
-    {
+      {
+        "name": "Human Frontier Science Progam Long-Term Fellowship: ",
+        "summary": "The project enabled development of skills in mathematical and computational immunology, leading to pioneering Canonical Correspondence Analysis in genomic analysis.",
+        "highlights": ["Canonical Correspondence Analysis", "Multidimensional Analysis"],
+        "startDate": "2009",
+        "endDate": "2012",
+        "url": "https://www.hfsp.org"
+      },
+      {
       "name": "BBSRC Fellowship: Elucidation of the transcriptional programme of memory T cells by a systems approach",
       "summary": "The project investigated mechanisms underlying T cell memory and regulation, innovating the Tocky technology and utilising it to discover novel molecular mechanisms in T-cells.",
       "highlights": ["Tocky", "Transgenesis and computational algorithms"],
