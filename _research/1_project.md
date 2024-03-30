@@ -2,7 +2,7 @@
 layout: page
 title: Tocky publication 2018 (1)
 description: the original report of Tocky from the Ono lab
-img: assets/gif/flowtimer.gif
+img: assets/img/tocky/bacnr4a3.jpg
 importance: 1
 category: primary research
 related_publications: true
