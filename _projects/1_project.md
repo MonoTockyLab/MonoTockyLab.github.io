@@ -29,7 +29,7 @@ The development of Nr4a3-Timer reporter mice, *Nr4a3-Tocky*, utilized the Bacter
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/bacnr4a3.jpg"  width="350" title="Nr4a3-Tocky Construct" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/bacnr4a3.jpg"  width="600" title="Nr4a3-Tocky Construct" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
