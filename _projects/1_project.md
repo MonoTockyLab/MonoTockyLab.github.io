@@ -28,7 +28,7 @@ The inception of the Timer method led to a dedicated project in my isolated labâ
 The development of Nr4a3-Timer reporter mice, *Nr4a3-Tocky*, utilized the Bacterial Artificial Chromosome approach for several reasons, which will be detailed in a future post. My extensive experience with transgenic mouse strains in Japan facilitated the successful development of Nr4a3-Timer mice in 2013.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tocky/bacnr4a3.jpg" title="Nr4a3-Tocky Construct" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -39,7 +39,7 @@ Upon TCR stimulation, Nr4a3-Tocky T cells exhibit initial timer blue fluorescenc
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/timercourse.jpg" width="250" height="auto" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/timercourse.jpg" width="250" height="auto" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
