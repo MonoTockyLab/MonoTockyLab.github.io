@@ -70,8 +70,8 @@ London SW7 2AZ
     L.geoJSON(geojsonFeature).addTo(mymap);
 </script>
 
+---
 
-----------------------
 Some occasional winter days as well.
 
 <div class="row mt-6">
@@ -82,4 +82,3 @@ Some occasional winter days as well.
 	        {% include figure.liquid loading="eager" path="assets/img/access/monolab.jpg" class="img-fluid rounded z-depth-1" zoomable=true %} 
 	</div>
 </div>
-

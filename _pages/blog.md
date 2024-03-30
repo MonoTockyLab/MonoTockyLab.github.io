@@ -16,7 +16,6 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -37,7 +36,6 @@ pagination:
     </div>
 
 </div>
-
 
 {% if site.display_tags or site.display_categories %}
 
