@@ -9,9 +9,17 @@ His academic journey began at the prestigious Faculty of Medicine, Kyoto Univers
 
 Dr Ono's research took a significant leap forward in 2009 when he secured a Human Frontier Science Program (HFSP) Fellowship to join University College London (UCL). There, he broadened his research to encompass immunological genomics. His pioneering work earned him the BBSRC David Phillips Fellowship in 2012, allowing him to establish his laboratory at UCL. 
 
-In 2015, Dr Ono brought his expertise to Imperial College London. He was promoted to Reader in Immunology in 2020. Dr Ono continues to lead groundbreaking research, mentoring the next generation of scientists and advancing our understanding of immune responses in health and disease.
+In 2015, Dr Ono brought his expertise to Imperial College London. He was promoted to Reader in Immunology in 2020. Dr Ono continues to lead groundbreaking research, mentoring the next generation of scientists and advancing our understanding of immune responses in health and disease using the Tocky technology.
+
+
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/timer/blue.png" class="img-fluid rounded z-depth-1" width = "300" height="auto" slot="first" %}
+  {% include figure.liquid path="assets/img/timer/red.png" class="img-fluid rounded z-depth-1" width = "300" height="auto" slot="second" %}
+</img-comparison-slider>
+
 
 Currently, Dr Ono is developing the new generation of the Tocky technology.
+
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/tocky/TockyMouseblue.jpg" class="img-fluid rounded z-depth-1" width = "300" height="auto" slot="first" %}
