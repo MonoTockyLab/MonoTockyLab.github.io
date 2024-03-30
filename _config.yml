@@ -163,9 +163,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  research: # Name of the new collection
+  research:
     output: true
-    permalink: /research/:path/ # URL structure for items in the collection
+    permalink: /research/:path/
 
 announcements:
   enabled: true
