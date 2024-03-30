@@ -47,9 +47,14 @@ Dr Ono's research took a significant leap forward in 2009 when he secured a Huma
 <div class="caption">
 Methodological framework for Canonical Correspondence Analysis for quantitative  analysis of transcriptiomes.
 </div>
+
+
 ---
 ### Current Focus: Advancing Tocky Technology and Immunological Research
-In 2015, Dr Ono brought his expertise to Imperial College London. He was promoted to Reader in Immunology in 2020. Dr Ono continues to lead groundbreaking research, mentoring the next generation of scientists and advancing our understanding of immune responses in health and disease.
+
+In 2015, Dr Ono brought his expertise to Imperial College London. He was promoted to Reader in Immunology in 2020. Dr Ono continues to lead groundbreaking research, mentoring the next generation of scientists and advancing our understanding of immune responses in health and disease using the Tocky technology.
+
+
 
 Currently, Dr Ono is developing the new generation of the Tocky technology.
 
