@@ -28,7 +28,7 @@ Crucially, Nr4a3 is not expressed in resting T-cells or B-cells. However, antige
 
 The inception of the Timer method led to a dedicated project in my isolated lab—I forged ahead solo, without hiring any staff, to maximize time and resources for developing a new animal model.
 
-The development of Nr4a3-Timer reporter mice, *Nr4a3-Tocky*, utilized the Bacterial Artificial Chromosome approach for several reasons, which will be detailed in a future post. My extensive experience with transgenic mouse strains in Japan facilitated the successful development of Nr4a3-Timer mice in 2013.
+The development of Nr4a3-Timer reporter mice, _Nr4a3-Tocky_, utilized the Bacterial Artificial Chromosome approach for several reasons, which will be detailed in a future post. My extensive experience with transgenic mouse strains in Japan facilitated the successful development of Nr4a3-Timer mice in 2013.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

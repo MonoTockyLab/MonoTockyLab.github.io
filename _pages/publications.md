@@ -6,6 +6,7 @@ description: Updated on 2024-03-26
 nav: true
 nav_order: 2
 ---
+
 Key publications by Masahiro Ono, showcasing innovative approaches in immunological research and beyond.
 
 <div class="row mt-3">

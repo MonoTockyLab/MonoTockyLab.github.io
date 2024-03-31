@@ -13,9 +13,10 @@ images:
   compare: true
   slider: true
 social: true 
-
 ---
+
 ### Biography
+
 Dr Masahiro Ono is an immunologist and T-cell expert. He is the inventor of the innovative "Timer-of-Cell-Kinetics-and-Activity" (Tocky) technology. Using a Fluorescent Timer protein, this groundbreaking technology allows analysis of temporal changes of cellular activities and differentiation in vivo.
 
 <img-comparison-slider>
@@ -24,7 +25,9 @@ Dr Masahiro Ono is an immunologist and T-cell expert. He is the inventor of the 
 </img-comparison-slider>
 
 ---
+
 ### In Kyoto: From Classical Treg Biology to Molecular Immunology
+
 Dr Ono's academic journey began at the Faculty of Medicine, Kyoto University, where he earned his MD (1993-1999) and subsequently specialised in dermatology. During the clinical practice, his passion for immunology was ignited, whch led to his PhD (2002-2006). As a PhD student, he studied regulatory T cells (Treg), establishing the novel model of autoimmune myocarditis by Treg depletion.
 
 His subsequent research made significant strides in molecular immunology, particularly discovering the crucial interaction between Foxp3 and Runx1 that underpins Treg functionality.
@@ -48,13 +51,11 @@ Dr Ono's research took a significant leap forward in 2009 when he secured a Huma
 Methodological framework for Canonical Correspondence Analysis for quantitative  analysis of transcriptiomes.
 </div>
 
-
 ---
+
 ### Current Focus: Advancing Tocky Technology and Immunological Research
 
 In 2015, Dr Ono brought his expertise to Imperial College London. He was promoted to Reader in Immunology in 2020. Dr Ono continues to lead groundbreaking research, mentoring the next generation of scientists and advancing our understanding of immune responses in health and disease using the Tocky technology.
-
-
 
 Currently, Dr Ono is developing the new generation of the Tocky technology.
 

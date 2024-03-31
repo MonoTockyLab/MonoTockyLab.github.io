@@ -3,7 +3,6 @@ layout: page
 title: Access
 permalink: /access/
 map: true
-
 ---
 
 #### The Ono lab is located on the South Kensington Campus of Imperial College London.

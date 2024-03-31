@@ -21,8 +21,6 @@ Asanot et al. claimed that CD25+ T cells do not appear before day 3 post-birth, 
 
 I obtained a disturbing finding in 2003 (my second year in PhD): substantial numbers of Tregs existed in the neonatal spleen and thymus as early as day 1 after birth. This finding starkly contradicted the key claim of the Treg milestone paper by Asano et al., 1996.
 
-
-
 <div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/asano/asano1.jpg" width="500" height="auto" %}
@@ -67,6 +65,8 @@ This realization prompted my move from Japan to the UK in 2009 to extend my rese
 
 ---
 
-### Later Development
+#### Later Development
 
 The implications in the issues within Asano et al were profound. I later examined the effects of these and wrote a theoretical/opinion paper, analysing evidence from past papers and proposing a new perspective {% cite RN44 %}.
+
+---
