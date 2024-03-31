@@ -7,11 +7,13 @@ importance: 1
 category: primary research
 related_publications: true
 ---
+
 #### In 2013, Masahiro Ono launched his groundbreaking project to develop a novel methodology for analyzing the temporal dynamics of T-cell activities using a Fluorescent Timer protein—**T**imer-**o**f-**c**ell-**k**inetics-and-activit**y** (**Tocky**).
 
 This culminated in a [seminal publication](https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes) in 2018 {% cite RN55 %}.
 
 ---
+
 #### Discovery of Nr4a3 as a Reliable Reporter Gene for Cognate Antigen Signaling
 
 Upon establishing my laboratory at University College London in **2013**, I embarked on developing an entirely new approach to comprehend T-cell dynamics in vivo.
@@ -21,6 +23,7 @@ Through Canonical Correspondence Analysis, Nr4a3 emerged as the gene with the hi
 Crucially, Nr4a3 is not expressed in resting T-cells or B-cells. However, antigen signaling (specifically, cognate antigen signaling) triggers Nr4a3 expression in both T-cells and B-cells.
 
 ---
+
 #### Development of Nr4a3-Timer Reporter Mice (Nr4a3-Tocky)
 
 The inception of the Timer method led to a dedicated project in my isolated lab—I forged ahead solo, without hiring any staff, to maximize time and resources for developing a new animal model.
@@ -44,6 +47,7 @@ Upon TCR stimulation, Nr4a3-Tocky T cells exhibit initial timer blue fluorescenc
 </div>
 
 --- 
+
 #### Rejection and Resilience 
 
 Despite a smooth start, we encountered significant obstacles—neither editors nor reviewers were able to recognize the importance of the Timer system. Interestingly, many claimed that the Timer approach was _"not novel."_
@@ -53,6 +57,7 @@ Despite a smooth start, we encountered significant obstacles—neither editors n
 I should accurately count the exact number and compile their comments for future reference.
 
 --- 
+
 #### Development of Novel Tocky Data Analysis Method
 
 This challenge prompted my second innovation: developing a novel, data-oriented analysis method for analyzing Timer fluorescence data.
@@ -65,4 +70,4 @@ As demonstrated in the gif above, Timer fluorescence data are continuous, indica
     </div>
 </div>
 
-Tocky represents a transformative technology for understanding the immune system by tracking T-cell activity over time. Employing a color-changing protein, this method has shed light on the pathway of T-cell activation and
+The Tocky technology, equipped with the quantitative data analysis methods and meticulously designed Timer reporter systems, provides unique solutions to immunology and beyond.
