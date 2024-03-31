@@ -34,7 +34,7 @@ Masahiro Ono is the inventor of the innovative *Timer-of-Cell-Kinetics-and-Activ
 
 **Current Position**:
 
-- Reader in Immunology, Imperial College London
+- [Reader in Immunology, Imperial College London](https://www.imperial.ac.uk/people/m.ono)
 
 **Education**:
 
