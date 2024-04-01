@@ -28,7 +28,7 @@ First, to better understand Foxp3 transcription dynamics, we experimentally dete
     </div>
 </div>
 
---- 
+---
 
 #### Immunological Significance of Foxp3 Transcirptional Dynamics Revealed by Tocky
 
@@ -81,4 +81,3 @@ Understanding of temporally dynamic features of Foxp3 expressors enabled a new i
 </div>
 
 ---
-

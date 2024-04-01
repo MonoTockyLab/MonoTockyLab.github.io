@@ -12,7 +12,7 @@ profiles:
 images:
   compare: true
   slider: true
-social: true 
+social: true
 ---
 
 ### Biography
@@ -36,10 +36,11 @@ His subsequent research made significant strides in molecular immunology, partic
   {% include figure.liquid path="assets/img/sakura/sakura1.jpg" class="img-fluid rounded z-depth-1" width = "600" height="auto" slot="first" %}
   {% include figure.liquid path="assets/img/sakura/sakura2.jpg" class="img-fluid rounded z-depth-1" width = "600" height="auto" slot="second" %}
 </img-comparison-slider>
----
-### Moving to the UK: Extending Research Fields to Computational Immunology
-Dr Ono's research took a significant leap forward in 2009 when he secured a Human Frontier Science Program (HFSP) Fellowship to join University College London (UCL). There, he broadened his research to encompass computational immunology and immunological genomics. His pioneering work in the development of Canonical Correspondence Analysis as a genomic analysis method earned him the BBSRC David Phillips Fellowship in 2012, enabling him to establish his laboratory at UCL. 
 
+---
+
+### Moving to the UK: Extending Research Fields to Computational Immunology
+Dr Ono's research took a significant leap forward in 2009 when he secured a Human Frontier Science Program (HFSP) Fellowship to join University College London (UCL). There, he broadened his research to encompass computational immunology and immunological genomics. His pioneering work in the development of Canonical Correspondence Analysis as a genomic analysis method earned him the BBSRC David Phillips Fellowship in 2012, enabling him to establish his laboratory at UCL.
 
 <div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0">

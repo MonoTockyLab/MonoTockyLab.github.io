@@ -46,9 +46,9 @@ Upon TCR stimulation, Nr4a3-Tocky T cells exhibit initial timer blue fluorescenc
     </div>
 </div>
 
---- 
+---
 
-#### Rejection and Resilience 
+#### Rejection and Resilience
 
 Despite a smooth start, we encountered significant obstacles—neither editors nor reviewers were able to recognize the importance of the Timer system. Interestingly, many claimed that the Timer approach was _"not novel."_
 
@@ -56,7 +56,7 @@ Despite a smooth start, we encountered significant obstacles—neither editors n
 
 I should accurately count the exact number and compile their comments for future reference.
 
---- 
+---
 
 #### Development of Novel Tocky Data Analysis Method
 

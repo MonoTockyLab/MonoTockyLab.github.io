@@ -5,8 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: talk
+    permalink: /talk/
   - title: divider
   - title: research
     permalink: /research/
