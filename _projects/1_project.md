@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tocky Publication 2018 (1)
-description: The original report on Tocky from the Ono Lab
+title: Tocky's Debut
+description: The original report of Tocky from the Ono lab
 img: assets/img/tocky/FlowTockyModel.jpg
 importance: 1
 category: primary research

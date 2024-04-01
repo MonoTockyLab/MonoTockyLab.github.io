@@ -69,4 +69,9 @@ This realization prompted my move from Japan to the UK in 2009 to extend my rese
 
 The implications in the issues within Asano et al were profound. I later examined the effects of these and wrote a theoretical/opinion paper, analysing evidence from past papers and proposing a new perspective {% cite RN44 %}.
 
+Further, given that the belief that Tregs constitute a unique lineage of cells originates from, and is supported by, the findings of [Asano et al.](https://pubmed.ncbi.nlm.nih.gov/8760792/), it is urgently required to establish a new research framework to investigate Foxp3 and Treg, without relying on the idea of a _stable lineage_. 
+
+Our second Tocky publication published in the EMBO Journal {% cite RN56 %} investigated temporal dynamics of Foxp3 transcription and thereby addressed this challenge.
+
+
 ---

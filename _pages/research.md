@@ -5,13 +5,13 @@ permalink: /research/
 description: Introducing key publications from the Ono lab.
 nav: true
 nav_order: 3
-display_categories: [primary research, review and opinion, computational algorithms]
+display_categories: [primary research, review and opinion, methodology and computational algorithms]
 horizontal: false
 ---
 
 <div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tocky/TockyMouse.jpg" width="200" height="auto" %}
+        {% include figure.liquid path="assets/img/tocky/TockyMouse.jpg" width="200" height="auto"  zoomable=true %}
     </div>
 </div>
 <!-- pages/projects.md -->
