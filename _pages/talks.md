@@ -92,7 +92,7 @@ The venue of the summer retrovirology school, Aso, Kumamoto, Japan.
     </div>
 </div>
 <div class="caption">
- The world _premiere_ presentation of Nr4a3-Tocky and Foxp3-Tocky data at a minisymposium, UCL, 2015.
+ The world premiere presentation of Nr4a3-Tocky and Foxp3-Tocky data at a minisymposium, UCL, 2015.
 </div>
 
 
