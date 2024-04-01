@@ -23,6 +23,12 @@ description: Selected talks and seminars
 - Invited Seminar, Kumamoto AIDS seminar, 19 October 2021
 - Invited Seminar, KAIST (Korea)- Kumamoto IRCMS seminar series (online), 14 October 2021
 - Invited Seminar, Cambridge British Society Immunology seminar (online), 26 May 2021
+
+<div class="row">
+    <div style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/talk/cambridge.jpg"  width="350" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 - Public Seminar, the 85th IRCMS Seminar, Infections and Shibasaburo Kitasato, 16 September 2021
 
 <div class="row">
