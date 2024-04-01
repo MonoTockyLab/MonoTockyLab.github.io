@@ -26,7 +26,7 @@ description: Selected talks and seminars
 
 <div class="row">
     <div style="text-align: center;">
-        {% include figure.liquid loading="eager" path="assets/img/talk/cambridge.jpg"  width="350" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/talk/cambridge.jpg"  width="600" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 - Public Seminar, the 85th IRCMS Seminar, Infections and Shibasaburo Kitasato, 16 September 2021
