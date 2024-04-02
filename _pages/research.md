@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [primary research, review and opinion, methodology and computational algorithms]
 horizontal: false
+og_image: assets/img/tocky/TockyMouse.jpg
 ---
 
 <div class="row mt-3">
