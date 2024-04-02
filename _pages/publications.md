@@ -5,7 +5,7 @@ title: publications
 description: Updated on 2024-03-26
 nav: true
 nav_order: 2
-og_image: /assets/img/publication/bookroom.jpg
+og_image: https://monotockylab.github.io/assets/img/publication/bookroom.jpg
 ---
 
 Key publications by Masahiro Ono, showcasing innovative approaches in immunological research and beyond.
