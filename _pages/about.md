@@ -17,6 +17,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
+og_image: "/assets/img/socialmediapreview.png"
 ---
 
 Masahiro Ono is the inventor of the innovative _Timer-of-Cell-Kinetics-and-Activity (Tocky)_ technology. He is revolutionising the study of T-cells, employing Fluorescent Timer protein to observe their temporal changes in vivo.
