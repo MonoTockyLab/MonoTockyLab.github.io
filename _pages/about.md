@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: MD PhD FHEA
+description: Masahiro Ono is the inventor of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology, revolutionising the study of T-cells and beyond.
 
 profile:
   align: right
