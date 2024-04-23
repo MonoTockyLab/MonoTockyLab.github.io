@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Updated on 2024-03-26
+description: Publication – Dr Masahiro Ono is a T-cell expert and the inventor of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology.
 nav: true
 nav_order: 2
 og_image: https://monotockylab.github.io/assets/img/publication/bookroom.jpg

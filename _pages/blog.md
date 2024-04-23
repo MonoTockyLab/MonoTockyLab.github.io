@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
-description: monolog (blog) by Masahiro Ono, T-cell expert and the inventor of the Timer-of-Cell-Kinetics-and-Activity (Tocky) technology.
+description: monolog (blog) by Masahiro Ono, a T-cell expert and the inventor of the Timer-of-Cell-Kinetics-and-Activity (Tocky) technology.
 nav: true
 nav_order: 1
 pagination:

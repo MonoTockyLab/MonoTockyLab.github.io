@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /researcher/
 title: researcher
-description: Principal Investigator, Ono Lab
+description: Profile – Dr Masahiro Ono is a T-cell expert and the inventor of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology.
 nav: true
 nav_order: 7
 
