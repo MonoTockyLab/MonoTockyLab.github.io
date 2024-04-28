@@ -8,6 +8,12 @@ category: primary research
 related_publications: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyToki.jpg" width="250" height="auto" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 #### In 2013, upon receiving the prestigious BBSRC David Phillips Fellowship, Masahiro Ono launched his groundbreaking project to develop a novel methodology for analyzing the temporal dynamics of T-cell activities using a Fluorescent Timer protein—**T**imer-**o**f-**c**ell-**k**inetics-and-activit**y** (**Tocky**).
 
 This culminated in a [seminal publication](https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes) in 2018 {% cite RN55 %}.
