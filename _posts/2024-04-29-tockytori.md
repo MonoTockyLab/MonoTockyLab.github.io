@@ -8,10 +8,10 @@ categories: blog
 featured: false
 ---
 
-### Nipponia Nippon (the bird “toki” (朱鷺))
+### Nipponia Nippon (the bird "toki" (朱鷺))
 
 <div class="row mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/Tocky_Nipponia_Nippon.jpg" class="img-fluid rounded z-depth-1" width = "600" height="auto" zoomable=true %}
+  {% include figure.liquid loading="eager" path="assets/img/tocky/Tocky_Nipponia_Nippon.jpg" class="img-fluid rounded z-depth-1" width="600" height="auto" zoomable=true %}
 </div>
 
 The Japanese Crested Ibis, known scientifically as _Nipponia Nippon_, is a member of the Threskiornithidae
@@ -25,5 +25,5 @@ In a creative twist linking to the Tocky concept, the _Tocky Nipponia Nippon_ is
 
 
 <div class="row mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyToki.jpg" class="img-fluid rounded z-depth-1" width = "600" height="auto" zoomable=true %}
+  {% include figure.liquid loading="eager" path="assets/img/tocky/TockyToki.jpg" class="img-fluid rounded z-depth-1" width="600" height="auto" zoomable=true %}
 </div>
