@@ -1,20 +1,22 @@
 ---
 layout: post
-title: The Tocky Bird
-date: 2024-04-29 21:00:00
+title: the tocky bird
+date: 2024-04-28 02:00:00
 description: Introduction to Tocky Tori
-tags: tocky immunology
+tags: tocky
 categories: blog
 featured: false
 ---
 
-### _Nipponia Nippon_ - The Bird "Toki"
+
+### _Nipponia Nippon_ - The Bird Toki (朱鷺)
 
 <div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/Tocky_Nipponia_Nippon.jpg" width="600" height="auto" class="img-fluid rounded z-depth-1" zoomable="true" %}
+        {% include figure.liquid path="assets/img/tocky/Tocky_Nipponia_Nippon.jpg" width="350" height="auto" %}
     </div>
 </div>
+
 
 The Japanese Crested Ibis, known scientifically as _Nipponia Nippon_, is a member of the Threskiornithidae family. Historically common throughout East Asia, it has faced dramatic population declines due to habitat destruction and pollution. 
 
@@ -24,6 +26,6 @@ In a creative twist linking to the Tocky concept, the _Tocky Nipponia Nippon_ is
 
 <div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tocky/TockyToki.jpg" width="600" height="auto" loading="eager" class="img-fluid rounded z-depth-1" zoomable="true" %}
+        {% include figure.liquid path="assets/img/tocky/TockyToki.jpg" width="35**0" height="auto" loading="eager" class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
 </div>
