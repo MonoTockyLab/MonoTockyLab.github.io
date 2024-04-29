@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tocky tori (toki bird)
+title: the tocky bird
 date: 2024-04-29 21:01:00
 description: introduction into tocky tori
 tags: tocky immunology
