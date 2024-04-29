@@ -26,6 +26,6 @@ In a creative twist linking to the Tocky concept, the _Tocky Nipponia Nippon_ is
 
 <div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tocky/TockyToki.jpg" width="35**0" height="auto" loading="eager" class="img-fluid rounded z-depth-1" zoomable="true" %}
+        {% include figure.liquid path="assets/img/tocky/TockyToki.jpg" width="350" height="auto" loading="eager" class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
 </div>
