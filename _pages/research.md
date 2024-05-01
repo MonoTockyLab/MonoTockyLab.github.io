@@ -9,6 +9,7 @@ display_categories: [primary research, review and opinion, methodology and compu
 horizontal: false
 og_image: assets/img/tocky/TockyMouse.jpg
 twitter_image: https://monotockylab.github.io/assets/img/tocky/TockyMouse.jpg
+twitter_username: MonoTockyLab
 ---
 
 <div class="row mt-3">
