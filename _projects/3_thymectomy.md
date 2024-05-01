@@ -2,7 +2,7 @@
 layout: page
 title: rethinking treg
 description: the two controversies that matter
-img: assets/img/tocky/icb.jpg
+img: assets/img/tocky/cd4foxp3.jpg
 importance: 1
 category: review and opinion
 related_publications: true
@@ -38,6 +38,15 @@ In a recent study from our lab, the dynamics of Foxp3 transcription were examine
 
 The catastrophic clinical trial of TGN1412 in 2006, which resulted in a severe cytokine storm in volunteers, serves as a stark reminder of what can go wrong when this dynamic is not fully understood. TGN1412, initially developed to suppress autoimmune reactions by targeting Tregs specifically, inadvertently activated a broad range of T cell responses following CD28 stimulation. 
 
+<div class="row mt-3" style="text-align: center;">
+     <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
+        {% include figure.liquid loading="eager" path="assets/img/tocky/lecture.jpg"  width="400" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  T-cell activation and CD28 costimulation.
+</div>
+
 The investigation into this incident concluded that a major factor was the 'unexpected difference between species' concerning the use of CD28. However, this raises a critical question: should it have been anticipated that CD28 could stimulate a wide array of T cells?
 
 This case highlights the critical need for a deeper understanding of Treg plasticity and the dynamic nature of T cell differentiation and activation.
@@ -53,9 +62,12 @@ The journey is far from over. I am eager to continue this research and look forw
 
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3" style="text-align: center;">
+     <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
         {% include figure.liquid loading="eager" path="assets/img/tocky/cd4foxp3.jpg"  width="400" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+  Microscopic image of CD4+ T cells. Green represents CD4 protein; red indicates Foxp3 protein; blue stains DNA. (Image credit: Ono)
 </div>
 
