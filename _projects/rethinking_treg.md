@@ -6,6 +6,8 @@ img: assets/img/tocky/cd4foxp3.jpg
 importance: 1
 category: review and opinion
 related_publications: true
+og_image: assets/img/tocky/cd4foxp3.jpg
+twitter_image: https://monotockylab.github.io/assets/img/tocky/cd4foxp3.jpg
 ---
 
 In the theoretical and opinion papers published in _Immunology & Cell Biology_ and _Clinical & Experimental Immunology_ by the Ono group, traditional views on thymus-derived regulatory T cells (Tregs) are challenged {% cite RN44 RN58 %}. 
