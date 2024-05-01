@@ -53,9 +53,9 @@
 
 {% if site.serve_og_meta %}
   <!-- OpenGraph -->
-  <meta property="og:site_name" content="{{ title }}">
+  <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="{% if is_blog_post %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{% if page.title %}{{ title }} | {{ page.title }}{% else %}{{ title }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ site.title }} | {{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.og_image or site.og_image %}
@@ -63,17 +63,13 @@
   {% endif %}
   <meta property="og:locale" content="{{ site.lang }}">
 
-<!-- Twitter card -->
-    <meta name="twitter:card" content="summary_large_image"> <!-- Use this if you want larger images -->
-    <meta name="twitter:site" content="@{{ site.twitter_username }}">  <!-- Optional: Your Twitter handle -->
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.twitter_image %}{{ page.twitter_image | absolute_url }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
-    <meta name="twitter:creator" content="@{{ page.twitter_creator }}"> <!-- Optional: Creator's handle -->
-  {% if site.x_username %}
-    <meta name="twitter:site" content="@{{ site.x_username }}">
-    <meta name="twitter:creator" content="@{{ site.x_username }}">
-  {% endif %}
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ site.twitter_username }}">
+  <meta name="twitter:creator" content="@{{ page.twitter_creator | default: site.twitter_username }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ site.title }} | {{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.twitter_image %}{{ page.twitter_image | absolute_url }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
 {% endif %}
 
 {% if site.serve_schema_org %}
