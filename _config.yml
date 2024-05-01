@@ -279,8 +279,8 @@ display_categories: ["blog"] # these categories will be displayed on the front p
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ono]
+  first_name: [Masahiro]
 
   style: apa
   locale: en
