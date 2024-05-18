@@ -166,6 +166,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  japanese:
+    output: true
+    permalink: /japanese/:path/
 
 announcements:
   enabled: true
@@ -176,6 +179,7 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+  
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

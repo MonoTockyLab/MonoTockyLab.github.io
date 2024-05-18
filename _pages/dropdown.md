@@ -11,6 +11,9 @@ children:
   - title: research
     permalink: /research/
   - title: divider
+  - title: 日本語
+    permalink: /japanese/
+  - title: divider
   - title: access
     permalink: /access/
 ---
