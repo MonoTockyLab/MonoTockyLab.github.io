@@ -95,6 +95,8 @@ Below is a summary of the main issues concerning the operation of the official T
 
 3) **The official account was masquerading as a 'funny event account' or 'Yuru-chara mascot', ostensibly to justify its inappropriate content and stance.** However, socially inappropriate actions cannot be justified under such pretenses.
 
+Thus, these issues are related to management and governance, and the responsibility lies with the president of the Annual Meeting, Professor Kenji Kabashima of Kyoto University, and his management team.
+
 I believe that most members of the Dermatology Association will attend the conference, temporarily pausing their practices, just as I did 23 years ago. Many may need to do so to renew their specialist qualifications. I am confident that many members engage earnestly in the academic pursuit of dermatology. I hope the conference management team does not disappoint these dedicated professionals.
 
 
