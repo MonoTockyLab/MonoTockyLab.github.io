@@ -73,7 +73,7 @@ Our first study on cancer immunotherapy, focusing on immune checkpoint blockade,
 
 This research explored the mechanisms of **the anti-PD-L1 and anti-CTLA-4 antibodies** using **Nr4a3-Tocky** technology. The findings led us to hypothesize and test the **anti-OX40 antibody**, which demonstrated significant additive effects on anti-cancer T-cell activities.
 
-I am grateful to my great collaborators, Prof Alan Melcher and Prof Kevin Harrington at ICR, and Prof Taku Okazaki, who is a renowned expert in PD-1 and Lag-3.
+I am grateful to my great collaborators, Prof Alan Melcher and Prof Kevin Harrington at ICR, and Prof Taku Okazaki, who is a renowned expert in PD-1 and Lag-3 biology.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
