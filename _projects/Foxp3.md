@@ -6,7 +6,7 @@ img: assets/img/foxp3/immunology2020.jpg
 importance: 1
 category: review and opinion
 related_publications: true
-og_image: assets/img/foxp3/immunology2020.jpg
+og_image: https://monotockylab.github.io/assets/img/foxp3/immunology2020.jpg
 twitter_image: https://monotockylab.github.io/assets/img/foxp3/immunology2020.jpg
 ---
 #### This blog introduces a new model for Foxp3 and Treg proposed in Ono et al., 2020 {% cite RN66 %}.

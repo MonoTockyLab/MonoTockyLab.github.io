@@ -3,6 +3,7 @@ layout: page
 title: Tocky's Debut
 description: The original report of Tocky from the Ono lab
 img: assets/img/tocky/FlowTockyModel.jpg
+og_image: https://monotockylab.github.io/assets/img/tocky/FlowTockyModel.jpg
 importance: 1
 category: primary research
 related_publications: true

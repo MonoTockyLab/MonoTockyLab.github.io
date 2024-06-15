@@ -3,6 +3,7 @@ layout: page
 title: Tocky Reveals Treg dynamics
 description: The second Tocky publication from the Ono Lab
 img: assets/img/tocky/persistent.jpg
+og_image: https://monotockylab.github.io/assets/img/tocky/persistent.jpg
 importance: 1
 category: primary research
 related_publications: true
