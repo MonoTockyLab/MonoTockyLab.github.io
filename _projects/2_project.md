@@ -9,7 +9,14 @@ category: primary research
 related_publications: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tocky/tockymouse_bannar.jpg" width="500" height="auto" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 #### Foxp3 - a Lineage Factor or a Marker for Regulatory Function?
+
 
 It is widely considered that Foxp3-expressing regulatory T cells (Treg) are a separate type of T-cells specialised for suppressing immune cell activities. Okay, this may be true if all Treg are functioning as suppressor T cells. However, in reality, it is difficult to identify which Treg cells are functioning and which ones are not. Further, the majority of Foxp3-expressing T-cells are not functional Treg and can contribute to the induction of T-cell response in humans {% cite RN47 RN24 RN29 %}.
 
