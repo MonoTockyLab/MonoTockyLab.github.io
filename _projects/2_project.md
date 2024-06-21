@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tocky Reveals Treg dynamics
+title: Decoding Foxp3 – From Treg Dogma to T-cell Dynamics
 description: The second Tocky publication from the Ono Lab
 img: assets/img/tocky/persistent.jpg
 og_image: https://monotockylab.github.io/assets/img/tocky/persistent.jpg
