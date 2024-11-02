@@ -8,7 +8,6 @@ categories: blog
 featured: false
 ---
 
-
 ### _Nipponia Nippon_ - The Bird Toki (朱鷺)
 
 <div class="row mt-3" style="text-align: center;">
@@ -17,7 +16,7 @@ featured: false
     </div>
 </div>
 
-The Japanese Crested Ibis, known scientifically as _Nipponia Nippon_, is a member of the Threskiornithidae family. Historically common throughout East Asia, it has faced dramatic population declines due to habitat destruction and pollution. 
+The Japanese Crested Ibis, known scientifically as _Nipponia Nippon_, is a member of the Threskiornithidae family. Historically common throughout East Asia, it has faced dramatic population declines due to habitat destruction and pollution.
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
@@ -29,10 +28,9 @@ Photo of Crested Ibis (<em>Nipponia nippon)</em> by Totti / <a href="https://ja.
 
 </div>
 
-In Japan, where the bird is culturally revered, conservation and reintroduction efforts have begun to bear fruit. The diet of the Toki consists predominantly of fish, frogs, and small creatures. With its striking white and pink plumage and gracefully curved bill, the _N. Nippon_ is an emblematic figure. 
+In Japan, where the bird is culturally revered, conservation and reintroduction efforts have begun to bear fruit. The diet of the Toki consists predominantly of fish, frogs, and small creatures. With its striking white and pink plumage and gracefully curved bill, the _N. Nippon_ is an emblematic figure.
 
 In a creative twist linking to the Tocky concept, the _Tocky Nipponia Nippon_ is envisioned as a fantastical creature adorned in hues of blue and red, reminiscent of the transitions seen in the Fluorescent Timer protein used in the Tocky technology.
-
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">

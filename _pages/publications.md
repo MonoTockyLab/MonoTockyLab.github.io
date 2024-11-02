@@ -17,7 +17,6 @@ Key publications by Masahiro Ono, showcasing innovative approaches in immunologi
 
 </div>
 
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -30,4 +29,3 @@ Key publications by Masahiro Ono, showcasing innovative approaches in immunologi
         {% include figure.liquid path="assets/img/publication/bookroom2.jpg" width="300" height="auto" zoomable=true %}    </div>
 
 </div>
-

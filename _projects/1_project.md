@@ -59,7 +59,7 @@ Upon TCR stimulation, Nr4a3-Tocky T cells exhibit initial timer blue fluorescenc
 
 Despite a smooth start, we encountered significant obstacles—neither editors nor reviewers were able to recognize the importance of the Timer system. Interestingly, many claimed that the Timer approach was _"not novel."_
 
-#### Now, I take pride in the fact that our paper was rejected nearly 20 times, which is a robust testimony for the true novelty of the Tocky approach. 
+#### Now, I take pride in the fact that our paper was rejected nearly 20 times, which is a robust testimony for the true novelty of the Tocky approach.
 
 I should accurately count the exact number and compile their comments for future reference.
 

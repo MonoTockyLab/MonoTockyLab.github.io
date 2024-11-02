@@ -40,6 +40,7 @@ His subsequent research made significant strides in molecular immunology, partic
 ---
 
 ### Moving to the UK: Extending Research Fields to Computational Immunology
+
 Dr Ono's research took a significant leap forward in 2009 when he secured a Human Frontier Science Program (HFSP) Fellowship to join University College London (UCL). There, he broadened his research to encompass computational immunology and immunological genomics. His pioneering work in the development of Canonical Correspondence Analysis as a genomic analysis method earned him the BBSRC David Phillips Fellowship in 2012, enabling him to establish his laboratory at UCL.
 
 <div class="row mt-3">

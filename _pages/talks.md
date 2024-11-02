@@ -6,6 +6,7 @@ description: Selected talks and seminars
 ---
 
 ### 2023
+
 - Invited Seminar, Mayo Clinic, US, 8 November 2023
 
 <div class="row">
@@ -56,6 +57,7 @@ description: Selected talks and seminars
 - Invited Seminar, Kyoto University Hospital, Kyoto, 25 Aug 2018
 
 ### 2017
+
 - Keynote lecture, Summer Retrovirology School, Kumamoto, Japan, 30 June 2017
 
 <div class="row">
@@ -72,10 +74,12 @@ The venue of the summer retrovirology school, Aso, Kumamoto, Japan.
 - Oral presentation, peer-reviewed, the World Immune Regulation Meeting XI, Davos, 15 March 2017
 
 ### 2016
+
 - Invited talk, Bizan Immunology Symposium, Tokushima, Japan, 4 Mar 2016
 - Invited presentation, peer-reviewed, the annual meeting of the British Society for Immunology (BSI/NVVI Congress 2016), Liverpool, UK, 7 Dec 2016
 
 ### 2015
+
 - Plenary lecture, the 45th annual meeting of the European Society for Dermatological Research, Rotterdam, The Netherlands, 10 Sept 2015
 
 <div class="row">
@@ -86,8 +90,6 @@ The venue of the summer retrovirology school, Aso, Kumamoto, Japan.
 <div class="caption">
  The second world premiere of Tocky, Rotterdam, 2015.
 </div>
-
-
 
 - Invited talk, the 114th Annual Meeting of Japanese Dermatological Association, Yokohama, Japan, 29 May 2015
 - Speaker, a future minisymposium, Infection/Immunity/Inflammation/Physiology (IIIP) of UCL Institute of Child Health, 12 Mar 2015
@@ -101,10 +103,10 @@ The venue of the summer retrovirology school, Aso, Kumamoto, Japan.
  The world premiere presentation of Nr4a3-Tocky and Foxp3-Tocky data at a minisymposium, UCL, 2015.
 </div>
 
-
 - Invited seminar in The Wright-Fleming Institute seminars, St Mary, Imperial College London, London, UK, 19 Oct 2015
 
 ### Earlier Highlights
+
 - Invited talk, the 73th Annual Meeting of the Eastern Japan Division of Japanese Dermatologist Association, Kohu, Japan, 18 Sept 2009
 - Invited talk, the 4th International Conference on Gene Regulation in Lymphocyte Development, Rhodes, Greece, 12 Aug 2008
 - Plenary talk, the 32th Annual Meeting of the Japanese Society for Investigative Dermatology, Kyoto, Japan, 18 Apr 2007
@@ -118,4 +120,3 @@ The venue of the summer retrovirology school, Aso, Kumamoto, Japan.
 <div class="caption">
  Presenting the discovery of Runx1/AML1 as a Foxp3 partner at the Annual Congress of British Society for Immunology, 21 February 2007.
 </div>
-

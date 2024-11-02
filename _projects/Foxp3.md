@@ -9,6 +9,7 @@ related_publications: true
 og_image: https://monotockylab.github.io/assets/img/foxp3/immunology2020.jpg
 twitter_image: https://monotockylab.github.io/assets/img/foxp3/immunology2020.jpg
 ---
+
 #### This blog introduces a new model for Foxp3 and Treg proposed in Ono et al., 2020 {% cite RN66 %}.
 
 #### Introduction:
@@ -35,6 +36,7 @@ Foxp3 provides '_long-range_' negative feedback to T cell activities, transcendi
 The exploration of these interactions offers significant insights at both the molecular and cellular levels regarding Foxp3's function and the activation, differentiation, and function of Tregs.
 
 #### Conclusion:
-These findings support a model in which Foxp3 not only alters the basal state of T cell transcriptional regulation but also the consequences of TCR signaling within the nucleus. This capability is essential for T cells to adapt their baseline behavior and modify their functional outputs during activation. 
+
+These findings support a model in which Foxp3 not only alters the basal state of T cell transcriptional regulation but also the consequences of TCR signaling within the nucleus. This capability is essential for T cells to adapt their baseline behavior and modify their functional outputs during activation.
 
 The proposed model underscores the critical foundation of Treg and Foxp3, as encapsulated in the title "_Control of Regulatory T‐cell Differentiation and Function by T‐Cell Receptor Signalling and Foxp3 Transcription Factor Complexes._"
