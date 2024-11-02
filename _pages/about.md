@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: MD PhD FHEA
-description: Masahiro Ono is the inventor of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology, revolutionising the study of T-cells and beyond.
+description: Masahiro Ono is an Integrative Experimental and Computational Immunologist. He is known as the creator and developer of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology. 
 
 profile:
   align: right
@@ -21,13 +21,14 @@ social: true
 og_image: https://monotockylab.github.io/assets/img/socialmediapreview2.png
 ---
 
-Masahiro Ono is the inventor of the innovative _Timer-of-Cell-Kinetics-and-Activity (Tocky)_ technology. He is revolutionising the study of T-cells, employing Fluorescent Timer protein to observe their temporal changes in vivo.
+Masahiro Ono is an Integrative Experimental and Computational Immunologist. He is known as the creator and developer of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology. 
 
 **Expertise**:
 
+- Integrative Experimental and Computational Immunology
 - Molecular and Systems Immunology
 - Cancer Immunology
-- Computational Immunology
+- Computational Biology for Cytometry and Genomics
 
 **Innovations and Tools**:
 
