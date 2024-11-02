@@ -7,8 +7,8 @@ first_name: Masahiro
 middle_name:
 last_name: Ono
 email: monotockylab@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Masahiro Ono is the inventor of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology, revolutionising the study of T-cells and beyond.
+description: > 
+  Masahiro Ono is an Integrative Experimental and Computational Immunologist. He is known as the creator and developer of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology.
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -19,7 +19,7 @@ icon: favicon.png
 
 url: https://monotockylab.github.io
 baseurl:
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
