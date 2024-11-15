@@ -72,6 +72,7 @@ github_username: MonoTockyLab # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: MonoTockyLab # your X handle
 twitter_username: MonoTockyLab
+bluesky_url: monotockylab.bsky.social
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
