@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-💻 **New R Package Released** – [_GatingTree_](https://monotockylab.github.io/GatingTree/index.html):
+💻 **New R Package Released** – [GatingTree](https://monotockylab.github.io/GatingTree/index.html):
 A ground-breaking R package for analysing high-dimensional cytometry data **without the use of dimensional reduction**. 🚀 See [the GatingTree website](https://monotockylab.github.io/GatingTree/index.html) and my research paper for the details!
