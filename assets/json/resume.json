@@ -28,7 +28,7 @@
       "startDate": "2015",
       "endDate": "Current",
       "summary": "Research and Teaching.",
-      "highlights": ["Development of Tocky", "Research in Autoimmunity", "Cancer Immunology"]
+      "highlights": ["Development of Tocky", "Research in Autoimmunity", "Cancer Immunology", "Integrated Experimental and Computational Immunology"]
     },
     {
       "name": "Institute of Child Health, University College London",
@@ -167,6 +167,14 @@
   ],
   "innovations": [
     {
+       "name": "GatingTree",
+       "icon": "fa-solid fa-hashtag",
+       "keywords": [
+        "Flow Cytometric Data Analysis",
+        "Bioinformatics for Flow Cytometric Analysis"
+    ]
+    },
+    {
       "name": "Tocky",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -200,7 +208,7 @@
       "keywords": ["Transcriptional Regulation", "Transcription Factor", "Protein-Protein Interaction", "Chromatin Immunoprecipitation", "Sequencing"]
     },
     {
-      "name": "Biological Methodology",
+      "name": "Computational Immunology",
       "icon": "fa-solid fa-tag",
       "keywords": ["Multidimensional Analysis", "Bioinformatics Analysis", "Flow Cytometric Data Analysis", "Genomic Data Analysis"]
     },
@@ -229,7 +237,7 @@
       "keywords": ["Transgenesis", "Transcriptional Regulation", "Transcriptome"]
     },
     {
-      "name": "Data Science",
+      "name": "Computational Immunology",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Multidimensional Analysis", "Genomic Data Analysis", "Flow Cytometric Data Analysis", "Machine Learning"]
     },
