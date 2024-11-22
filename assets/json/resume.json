@@ -5,7 +5,7 @@
     "image": "",
     "email": "m.ono@imperial.ac.uk",
     "url": "https://www.imperial.ac.uk/people/m.ono/",
-    "summary": "A Japan-born immunologist, the innovator and developer of the technology Timer-of-cell-kinetics-and-activity (Tocky)",
+    "summary": "Integrative Experimental and Computational Immunologist | Creator and Developer of Timer-of-Cell-Kinetics-and-Activity (Tocky)",
     "location": {
       "address": "Department of Life Sciences, Imperial College London",
       "postalCode": "SW7 2AZ",
@@ -17,6 +17,11 @@
         "network": "Twitter",
         "username": "MonoTockyLab",
         "url": "https://twitter.com/MonoTockyLab"
+      },
+      {
+        "network": "Bluesky",
+        "username": "monotockylab.bsky.social",
+        "url": "https://bsky.app/profile/monotockylab.bsky.social"
       }
     ]
   },
@@ -170,7 +175,7 @@
        "name": "GatingTree",
        "icon": "fa-solid fa-hashtag",
        "keywords": [
-        "Flow Cytometric Data Analysis",
+        "High-Dimensional Flow Cytometric Data Analysis Using Pathfinding Methods",
         "Bioinformatics for Flow Cytometric Analysis"
     ]
     },
@@ -195,11 +200,11 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "T cells",
-        "Antigen signalling (TCR signalling)",
-        "Cancer Immunology",
-        "T cell development, thymus",
-        "T cell differentiation",
-        "Foxp3 and regulatory T cells"
+        "T-Cell-Receptor Signalling",
+        "Cancer Immunology and Immunotherapy",
+        "T cell development (Thymus)",
+        "T cell Differentiation",
+        "Foxp3 and Regulatory T cells"
       ]
     },
     {
@@ -208,14 +213,9 @@
       "keywords": ["Transcriptional Regulation", "Transcription Factor", "Protein-Protein Interaction", "Chromatin Immunoprecipitation", "Sequencing"]
     },
     {
-      "name": "Computational Immunology",
+      "name": "Computational Immunology and Data Science",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Multidimensional Analysis", "Bioinformatics Analysis", "Flow Cytometric Data Analysis", "Genomic Data Analysis"]
-    },
-    {
-      "name": "Dermatology",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Dermatology Practice: 1999 - 2006", "Dermatological Science: 2006 - "]
+      "keywords": ["Bioinformatics", "Multidimensional Analysis", "Flow Cytometric Data Analysis", "Genomic Data Analysis"]
     }
   ],
   "skills": [
@@ -223,21 +223,17 @@
       "name": "Immunology",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "T cell biology",
-        "Cancer Immunology",
-        "Immune Checkpoints",
-        "Foxp3 and regulatory T cells",
-        "Infection Immunology",
-        "Thymic Development"
+        "Immunological Methods (In Vivo and In Vitro)",
+        "Flow Cytometric Analysis"
       ]
     },
     {
       "name": "Molecular Biology",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Transgenesis", "Transcriptional Regulation", "Transcriptome"]
+      "keywords": ["Transgenesis: Vectors and Model Organisms (Mus Musculus)", "Transcriptional Regulation", "Sequencing: RNA and Single Cells"]
     },
     {
-      "name": "Computational Immunology",
+      "name": "Data Science",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Multidimensional Analysis", "Genomic Data Analysis", "Flow Cytometric Data Analysis", "Machine Learning"]
     },
@@ -245,12 +241,17 @@
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["R", "Python"]
+    },
+    {
+      "name": "Dermatology",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Dermatology Practice: 1999 - 2006", "Dermatological Science: 2006 - "]
     }
   ],
   "languages": [
     {
       "language": "Japanese 🇯🇵",
-      "fluency": "Native speaker",
+      "fluency": "Native Speaker",
       "icon": ""
     },
     {
