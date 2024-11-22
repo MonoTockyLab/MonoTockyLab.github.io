@@ -5,7 +5,8 @@
       eprint={2411.09386},
       archivePrefix={arXiv},
       primaryClass={q-bio.QM},
-      url={https://arxiv.org/abs/2411.09386}, 
+      html={https://arxiv.org/abs/2411.09386}, 
+      abstract={Fluorescent Timer proteins, which spontaneously change their emission spectra over time, are valuable tools for analyzing temporal changes in cellular activities at the single-cell level. Traditional analysis of Fluorescent Timer data has mostly relied on conventional flow cytometric methods, which lacks the sophistication needed for detailed quantitative analysis. Recently, we developed the Timer-of-Cell-Kinetics-and-Activity (Tocky) tools, employing transgenic reporter systems using an mCherry mutant Timer protein, Fast-FT, to analyze these changes, implementing data preprocessing methods for Timer fluorescence. Despite this advancement, the computational implementation of effective quantitative analysis methods for Fluorescent Timer data has been lacking. In this study, we introduce rigorous algorithms for a data categorization method, designated as the Tocky locus approach, which uses normalized and trigonometric-transformed Fluorescent Timer data, suitable for quantitative analysis. We found that the five-locus approach, which categorizes Timer fluorescence into five categories, optimally captures the dynamics of Timer profiles, thus enabling effective quantitative statistical analysis and biological interpretation. The current study has developed comprehensive tools for data categorization, visualization, and statistical analysis optimized to Tocky Locus data. These algorithms have been implemented in the TockyLocus package, a new R package designed to facilitate the quantitative analysis of Timer fluorescence data. This toolkit is expected to significantly enhance the utility of experimental systems using Fluorescent Timer proteins, particularly the Tocky tools, by standardizing methods for analyzing dynamic cellular events and responses.}
 }
 
 @misc{ono2024tockyprepdatapreprocessingmethods,
@@ -15,7 +16,10 @@
       eprint={2411.04111},
       archivePrefix={arXiv},
       primaryClass={q-bio.QM},
-      url={https://arxiv.org/abs/2411.04111}, 
+      html={https://arxiv.org/abs/2411.04111}, 
+      abstract={Background: Fluorescent Timer proteins, which display time-dependent changes in their emission spectra, are invaluable for analyzing the temporal dynamics of cellular events at the single-cell level. We previously developed the Timer-of-cell-kinetics-and-activity (Tocky) tools, utilizing a specific Timer protein, Fast-FT, to monitor temporal changes in cellular activities. Despite their potential, the analysis of Timer fluorescence in flow cytometry is frequently compromised by variability in instrument settings and the absence of standardized preprocessing methods. The development and implementation of effective data preprocessing methods remain to be achieved.
+Results: In this study, we introduce the R package that automates the data preprocessing of Timer fluorescence data from flow cytometry experiments for quantitative analysis at single-cell level. Our aim is to standardize Timer data analysis to enhance reproducibility and accuracy across different experimental setups. The package includes a trigonometric transformation method to elucidate the dynamics of Fluorescent Timer proteins. We have identified the normalization of immature and mature Timer fluorescence data as essential for robust analysis, clarifying how this normalization affects the analysis of Timer maturation. These preprocessing methods are all encapsulated within the TockyPrep R package.
+Conclusions: TockyPrep is available for distribution via GitHub at this https URL, providing tools for data preprocessing and basic visualization of Timer fluorescence data. This toolkit is expected to enhance the utility of experimental systems utilizing Fluorescent Timer proteins, including the Tocky tools.}
 }
 
 @misc{ono2024gatingtreepathfindinganalysisgroupspecific,
@@ -25,7 +29,8 @@
       eprint={2411.00129},
       archivePrefix={arXiv},
       primaryClass={q-bio.QM},
-      url={https://arxiv.org/abs/2411.00129}, 
+      html={https://arxiv.org/abs/2411.00129}, 
+      abstract={Advancements in cytometry technologies have led to a remarkable increase in the number of markers that can be analyzed simultaneously, presenting significant challenges in data analysis. Traditional approaches, such as dimensional reduction techniques and computational clustering, although popular, often face reproducibility challenges due to their heavy reliance on inherent data structures, preventing direct translation of their outputs into gating strategies to be used in downstream experiments. Here we propose the novel Gating Tree methodology, a pathfinding approach that investigates the multidimensional data landscape to unravel group-specific features without the use of dimensional reduction. This method employs novel measures, including enrichment scores and gating entropy, to effectively identify group-specific features within high-dimensional cytometric datasets. Our analysis, applied to both simulated and real cytometric datasets, demonstrates that the Gating Tree not only identifies group-specific features comprehensively but also produces outputs that are immediately usable as gating strategies for unequivocally identifying cell populations. In conclusion, the Gating Tree facilitates a comprehensive analysis of the multidimensional data landscape and provides experimentalists with practical, successive gating strategies that enhance cross-experimental comparisons and downstream analyses such as flow cytometric sorting.}
 }
 
 @article{10.1093/discim/kyae006,
