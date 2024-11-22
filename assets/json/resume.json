@@ -172,12 +172,9 @@
   ],
   "innovations": [
     {
-       "name": "GatingTree",
-       "icon": "fa-solid fa-hashtag",
-       "keywords": [
-        "High-Dimensional Flow Cytometric Data Analysis Using Pathfinding Methods",
-        "Bioinformatics for Flow Cytometric Analysis"
-    ]
+      "name": "GatingTree",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["High-Dimensional Flow Cytometric Data Analysis Using Pathfinding Methods", "Bioinformatics for Flow Cytometric Analysis"]
     },
     {
       "name": "Tocky",
@@ -222,10 +219,7 @@
     {
       "name": "Immunology",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Immunological Methods (In Vivo and In Vitro)",
-        "Flow Cytometric Analysis"
-      ]
+      "keywords": ["Immunological Methods (In Vivo and In Vitro)", "Flow Cytometric Analysis"]
     },
     {
       "name": "Molecular Biology",
