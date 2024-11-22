@@ -18,7 +18,8 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
-og_image: https://monotockylab.github.io/assets/img/socialmediapreview2.png
+og_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
+
 ---
 
 Masahiro Ono is an Integrative Experimental and Computational Immunologist. He is known as the creator and developer of the innovative Timer-of-Cell-Kinetics-and-Activity (Tocky) technology.

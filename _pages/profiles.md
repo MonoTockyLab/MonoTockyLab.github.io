@@ -13,6 +13,8 @@ images:
   compare: true
   slider: true
 social: true
+og_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
+
 ---
 
 ### Biography

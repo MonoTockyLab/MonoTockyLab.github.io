@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 display_categories: [primary research, review and opinion, methodology and computational algorithms]
 horizontal: false
-og_image: assets/img/tocky/TockyMouse.jpg
-twitter_image: https://monotockylab.github.io/assets/img/tocky/TockyMouse.jpg
+og_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
+twitter_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
 ---
 
 <div class="row mt-3">
