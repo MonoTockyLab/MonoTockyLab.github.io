@@ -165,6 +165,9 @@ collections:
   japanese:
     output: true
     permalink: /japanese/:path/
+  tocky:
+    output: true
+    permalink: /tocky/:path/
 
 announcements:
   enabled: true

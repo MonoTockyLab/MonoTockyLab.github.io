@@ -1,0 +1,22 @@
+<!-- _includes/tocky_item.liquid -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="{% if tocky_item.redirect %}{{ tocky_item.redirect }}{% else %}{{ tocky_item.url | relative_url }}{% endif %}">
+    <div class="card hoverable">
+      {% if tocky_item.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=tocky_item.img
+          sizes="250px"
+          alt="Tocky item thumbnail"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">{{ tocky_item.title }}</h2>
+        <p class="card-text">{{ tocky_item.description }}</p>
+        <!-- Add any other fields specific to your Tocky items -->
+      </div>
+    </div>
+  </a>
+</div>
