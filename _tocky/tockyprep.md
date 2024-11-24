@@ -95,7 +95,7 @@ The **TockyPrep** package documentation is available online:
 
 This site includes all the function reference manuals and vignettes (tutorials).
 
-In addition to the HTML manual pages, a PDF manual for the **TockyPrep** package is available. You can find it in the installed package directory under `doc/`, or you can access it directly from [GitHub](https://github.com/MonoTockyLab/TockyPrep/blob/main/inst/doc/TockyPrep_0.1.0.pdf).
+In addition to the HTML manual pages, a PDF manual for the **TockyPrep** package is available. You can find it in the installed package directory under `doc/`, or you can access it directly from [GitHub](https://github.com/MonoTockyLab/TockyPrep/blob/main/inst/doc/TockyPrep_0.1.1.pdf).
 
 <br>
 

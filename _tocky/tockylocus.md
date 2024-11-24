@@ -114,7 +114,7 @@ All code and original graphical content within the TockyPrep package, including 
 
 ### License
 
-The distribution and modification are governed by the Apache License 2.0, which ensures that all users have the freedom to use and change the software in a way that respects the original authorship. See the [LICENSE](https://github.com/MonoTockyLab/TockyLocus/blob/main/LICENSE) file for more information.
+The distribution and modification are governed by the Apache License 2.0, which ensures that all users have the freedom to use and change the software in a way that respects the original authorship. See the [LICENSE](https://github.com/MonoTockyLab/TockyLocus/blob/main/LICENSE.md) file for more information.
 
 ### Citing TockyLocus
 
