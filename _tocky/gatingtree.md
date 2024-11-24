@@ -2,14 +2,13 @@
 layout: page
 title: GatingTree
 description: Pathfinding Analysis of Group-Specific Effects in Cytometry Data
-category: General Flow Cytometric Tools 
+category: General Flow Cytometric Tools
 importance: 1
 img: assets/img/tocky/GatingTreeBanner1.jpg
 og_image: https://monotockylab.github.io/assets/img/tocky/GatingTreeBanner1.jpg
 ---
 
-
-# GatingTree: R Package for Pathfinding Analysis of Group-Specific Effects in Cytometry Data 
+# GatingTree: R Package for Pathfinding Analysis of Group-Specific Effects in Cytometry Data
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
@@ -22,7 +21,6 @@ og_image: https://monotockylab.github.io/assets/img/tocky/GatingTreeBanner1.jpg
 
 ### [Link to the GatingTree Documentation Page](https://monotockylab.github.io/GatingTree/)
 
-
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
         {% include figure.liquid loading="eager" path="assets/img/tocky/MonoLab.jpg"  width="300" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -34,7 +32,6 @@ og_image: https://monotockylab.github.io/assets/img/tocky/GatingTreeBanner1.jpg
         {% include figure.liquid loading="eager" path="assets/img/tocky/GatingTree_logo.jpg"  width="300" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
 
 ## Table of Contents
 
@@ -50,12 +47,12 @@ og_image: https://monotockylab.github.io/assets/img/tocky/GatingTreeBanner1.jpg
     </div>
 </div>
 
-
 ## 1. Introduction
 
 **GatingTree** is an R package designed to enhance the analysis of group-specific effects in cytometry data.
 
 #### Current Challenges
+
 Advancements in cytometry technologies allow for the simultaneous analysis of numerous markers. However, they also introduce challenges in the data-oriented analysis of biological effects, such as treatment effects, within high-dimensional data.
 
 Traditional methods such as manual gating are insufficient for these demands. While dimensional reduction methods (e.g., UMAP) with or without clustering are increasingly common, they struggle with reproducibility across experiments. Moreover, the cell clusters they identify may not translate effectively into practical gating strategies for laboratory use, further exacerbating the **reproducibility crisis in biological and medical research**.
@@ -95,7 +92,7 @@ The **GatingTree** package includes vignettes to assist users in efficiently app
 
 - **[Using CSV File Inputs](https://MonoTockyLab.github.io/GatingTree/articles/UsingCSVfileInputs.html)**: This vignette shows how to import cytometry sample data as CSV files and initialize a `FlowObject`.
 
-*Note: You can access the vignettes within R using the `browseVignettes("GatingTree")` command after installing the package.*
+_Note: You can access the vignettes within R using the `browseVignettes("GatingTree")` command after installing the package._
 
 ## 4. Package Documentation
 
@@ -113,7 +110,7 @@ In addition to the HTML manual pages, a PDF manual for the **GatingTree** packag
 
 ### Copyright
 
-All code and original graphical content within the GatingTree package, including anime-like characters and logos, are copyrighted by [Masahiro Ono](https://monotockylab.github.io/). 
+All code and original graphical content within the GatingTree package, including anime-like characters and logos, are copyrighted by [Masahiro Ono](https://monotockylab.github.io/).
 
 ### License
 
@@ -123,7 +120,7 @@ The distribution and modification are governed by the Apache License 2.0, which 
 
 If you use **GatingTree** in your research, please cite:
 
-Masahiro Ono (2024). *GatingTree: Pathfinding Analysis of Group-Specific Effects in Cytometry Data.* arXiv:2411.00129 [q-bio.QM]. Available at:[https://arxiv.org/abs/2411.00129](https://arxiv.org/abs/2411.00129).
+Masahiro Ono (2024). _GatingTree: Pathfinding Analysis of Group-Specific Effects in Cytometry Data._ arXiv:2411.00129 [q-bio.QM]. Available at:[https://arxiv.org/abs/2411.00129](https://arxiv.org/abs/2411.00129).
 
 #### BibTeX Entry
 
@@ -151,8 +148,6 @@ We kindly remind our users that **citing software is as important as citing acad
 #### Further Resources
 
 For additional guidance on citation practices and maintaining research integrity, we recommend visiting the [Committee on Publication Ethics (COPE)](https://publicationethics.org/), which offers valuable resources and support for adhering to ethical practices in scholarly publishing.
-
-
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">

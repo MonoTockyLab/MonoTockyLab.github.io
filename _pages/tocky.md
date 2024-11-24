@@ -5,7 +5,7 @@ permalink: /tocky/
 description: This page introduces our computational packages designed for analysing Tocky and beyond. The software tools listed under 'General Flow Cytometric Tools' are applicable to any flow cytometric data.
 nav: true
 nav_order: 4
-display_categories: [Tocky, General Flow Cytometric Tools] 
+display_categories: [Tocky, General Flow Cytometric Tools]
 horizontal: false
 og_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
 twitter_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
