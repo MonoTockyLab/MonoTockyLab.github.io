@@ -4,8 +4,8 @@ title: TockyDevelopment
 description: Multidimensional Tools for Flow Cytometric Fluorescent Timer Data
 category: Tocky
 importance: 1
-img: assets/img/tocky/TockyDevelopment_logo.jpg
-og_image: https://monotockylab.github.io/assets/img/tocky/TockyDevelopment_logo.jpg
+img: assets/img/tocky/TockyDevelopment_logo.png
+og_image: https://monotockylab.github.io/assets/img/tocky/TockyDevelopment_logo.png
 ---
 
 # TockyDevelopment: Multidimensional Tools for Flow Cytometric Fluorescent Timer Data
@@ -13,7 +13,7 @@ og_image: https://monotockylab.github.io/assets/img/tocky/TockyDevelopment_logo.
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.jpg"  width="650" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.png"  width="650" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -52,7 +52,7 @@ However, to effectively use the approach, a dedicated computational tool was req
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.jpg"  width="500" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.png"  width="500" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -151,6 +151,6 @@ For additional guidance on citation practices and maintaining research integrity
 
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
-        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.jpg"  width="500" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.png"  width="500" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
