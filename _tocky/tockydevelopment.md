@@ -10,7 +10,6 @@ og_image: https://monotockylab.github.io/assets/img/tocky/TockyDevelopment_logo.
 
 # TockyDevelopment: Multidimensional Tools for Flow Cytometric Fluorescent Timer Data
 
-
 <div class="row mt-3" style="text-align: center;">
      <div class="col-sm mt-3 mt-md-0" style="display: inline-block;">
         {% include figure.liquid loading="eager" path="assets/img/tocky/TockyDevelopment_logo.png"  width="650" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -79,11 +78,9 @@ The **TockyDevelopment** package offers functions for analyzing the temporal dyn
    - Employs a novel pathfinding algorithm, **Dijkstra-Tocky**, to identify time-dependent trajectories based on network analysis outputs.
    - Pinpoints developmental paths by finding the shortest paths in the network, representing the most probable sequences of cellular transitions.
 
-
 ## Availability
 
 - **TockyDevelopment** is available at GitHub: [TockyDevelopment](https://github.com/MonoTockyLab/TockyDevelopment).
-
 
 ## Package Documentation
 
@@ -111,7 +108,7 @@ The TockyDevelopment code is available on GitHub without a standard licensing op
 
 If you use the **TockyDevelopment** package or any of its components in a scientific publication or in any other public work, please cite it as follows:
 
-Masahiro Ono and Tessa Crompton (2024). *A Multidimensional Toolkit for Elucidating Temporal Trajectories in Cell Development In Vivo.* *Development*. 
+Masahiro Ono and Tessa Crompton (2024). _A Multidimensional Toolkit for Elucidating Temporal Trajectories in Cell Development In Vivo._ _Development_.
 
 **BibTeX Entry:**
 
@@ -124,7 +121,6 @@ Masahiro Ono and Tessa Crompton (2024). *A Multidimensional Toolkit for Elucidat
   note = {}
 }
 ```
-
 
 ### License
 
