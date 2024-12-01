@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Masahiro Ono",
-    "label": "Immunologist",
+    "label": "Integrative Experimental and Computational Immunologist",
     "image": "",
     "email": "m.ono@imperial.ac.uk",
     "url": "https://www.imperial.ac.uk/people/m.ono/",
-    "summary": "Integrative Experimental and Computational Immunologist | Creator and Developer of Timer-of-Cell-Kinetics-and-Activity (Tocky)",
+    "summary": "Creator and Developer of Timer-of-Cell-Kinetics-and-Activity (Tocky) and GatingTree | T-cells | Immunotherapy | Canonical Correspondence Analysis in Genomics and Cytometry",
     "location": {
       "address": "Department of Life Sciences, Imperial College London",
       "postalCode": "SW7 2AZ",
@@ -94,6 +94,13 @@
       "awarder": "Kato Memorial Bioscience Foundation",
       "url": "https://www.katokinen.or.jp/",
       "summary": "Awarded for enabling pioneering exploration in the fields of molecular biology and immunology in Kyoto."
+    },
+    {
+      "title": "Minami Shogo Memorial Award",
+      "date": "2009",
+      "awarder": "Japanese Dermatological Association",
+      "url": "https://www.dermatol.or.jp/modules/biologics/index.php?content_id=13",
+      "summary": "The most prestigious award for dermatological researchers in Japan."
     },
     {
       "title": "Human Frontier Science Program Long-Term Fellowship",
