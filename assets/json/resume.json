@@ -149,6 +149,13 @@
   ],
   "publications": [
     {
+      "name": "A multidimensional toolkit for elucidating temporal trajectories in cell development in vivo",
+      "publisher": "Development",
+      "releaseDate": "2024-11-29",
+      "url": "https://doi.org/10.1242/dev.204255",
+      "summary": "This study established innovative computational methods that exploit the power of Tocky technology to decipher time-dependent processes in cellular development using Canonical Correspondence Analysis and Network Analysis."
+    },
+    {
       "name": "A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo",
       "publisher": "Journal of Cell Biology",
       "releaseDate": "2018-06-25",
