@@ -5,7 +5,7 @@ permalink: /research/
 description: Introducing key publications from the Ono lab.
 nav: true
 nav_order: 3
-display_categories: [primary research, review and opinion, methodology and computational algorithms]
+display_categories: [primary research, review and opinion]
 horizontal: false
 og_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
 twitter_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
