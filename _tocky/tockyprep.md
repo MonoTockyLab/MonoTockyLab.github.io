@@ -125,6 +125,19 @@ Masahiro Ono (2024). _TockyPrep: Data Preprocessing Methods for Flow Cytometric 
     journal={arXiv:2411.04111 [q-bio.QM]},
     url={https://arxiv.org/abs/2411.04111},
 }
+
+@article{tockyprep2025,
+    title={TockyPrep: Data Preprocessing Methods for Flow Cytometric Fluorescent Timer Analysis},
+    author={Masahiro Ono},
+    year={2024},
+    journal={BMC Bioinformatics},
+    year = "2025",
+    volume = "26",
+    pages = "44",
+    url={https://doi.org/10.1186/s12859-025-06058-8},
+}
+
+
 ```
 
 #### Why Citation Is Important
