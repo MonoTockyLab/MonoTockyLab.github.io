@@ -111,9 +111,11 @@ The distribution and modification are governed by the Apache License 2.0, which 
 
 ### Citing TockyPrep
 
-If you use **TockyPrep** in your research, please cite:
+If you use **TockyPrep** in your research, please cite {% cite tockyprep2025, ono2024tockyprepdatapreprocessingmethods %}:
 
 Masahiro Ono (2024). _TockyPrep: Data Preprocessing Methods for Flow Cytometric Fluorescent Timer Analysis._ arXiv:2411.04111 [q-bio.QM]. Available at:[https://arxiv.org/abs/2411.04111](https://arxiv.org/abs/2411.04111).
+
+Masahiro Ono (2025). _TockyPrep: Data Preprocessing Methods for Flow Cytometric Fluorescent Timer Analysis._ BMC Bioinformatics, 26, 44. Available at:[https://doi.org/10.1186/s12859-025-06058-8](https://doi.org/10.1186/s12859-025-06058-8).
 
 #### BibTeX Entry
 
