@@ -5,7 +5,7 @@ date: 2024-06-01 16:00:00
 description: some thoughts on governance of a medical society
 tags: japan integrity dermatology kyoto
 categories: blog
-featured: true
+featured: false
 related_publications: false
 ---
 

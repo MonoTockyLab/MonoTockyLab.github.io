@@ -5,7 +5,7 @@ date: 2024-03-24 21:01:00
 description: reexamining treg fundmentals
 tags: treg thymectomy motivation
 categories: blog
-featured: true
+featured: false
 related_publications: true
 ---
 
