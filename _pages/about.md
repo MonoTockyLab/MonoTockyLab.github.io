@@ -32,7 +32,7 @@ Masahiro Ono is an Integrative Experimental and Computational Immunologist. He i
 
 **Innovations and Tools**:
 
-- Developer of **[Tocky (とき)](https://bit.ly/3wvqUsx)**
+- Creator and Developer of **[Tocky (とき)](https://bit.ly/3wvqUsx)**
 - Application of Canonical Correspondence Analysis in Genomic Analysis
 
 **Current Position**:
