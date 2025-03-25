@@ -4,7 +4,7 @@ title: レトロウイルスによる白血病のメカニズムをTockyが照�
 date: 2024-06-13 06:00:00
 description: HTLV-1感染によって利用される自己反応性T細胞のスペクトルとその活性化メカニズム
 tags: PD1 CTLA4 OX40 cancer immunotherapy
-importance: 1
+importance: 2
 category: 研究内容
 related_publications: true
 ---

@@ -4,7 +4,7 @@ title: Tockyを使って、がん免疫療法研究を立ち上げるまで
 date: 2024-06-09 01:00:00
 description: our cancer immunotherapy Tocky projects
 tags: PD1 CTLA4 OX40 cancer immunotherapy
-importance: 1
+importance: 2
 category: 研究内容
 related_publications: true
 ---
