@@ -2,7 +2,7 @@
 layout: page
 title: Tocky
 permalink: /tocky/
-description: This page introduces our computational packages designed for analysing Tocky and beyond. The software tools listed under 'General Flow Cytometric Tools' are applicable to any flow cytometric data.
+description: Introducing our computational packages for analysing Tocky and General Flow Cytometric Data.
 nav: true
 nav_order: 4
 display_categories: [Tocky, General Flow Cytometric Tools]
@@ -11,6 +11,30 @@ og_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
 twitter_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
 ---
 
+The software tools listed under 'General Flow Cytometric Tools' are applicable to any flow cytometric data.
+Find a hidden magical Turtle ('Kame-san') on this page!
+
+<div class="row mt-3">
+  <!-- First image: JPEG -->
+  <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+    {% include figure.liquid
+       path="assets/img/tocky/TockyMouse.jpg"
+       width="200"
+       height="auto"
+       zoomable=true %}
+  </div>
+
+  <!-- Second image: SVG animation -->
+  <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+    <object
+      class="svg-figure"
+      type="image/svg+xml"
+      data="{{ '/assets/svg/kamesan2.svg' | relative_url }}"
+      aria-label="Tocky draw animation"
+      style="max-width:300px; width:150%; height:auto;">
+    </object>
+  </div>
+</div>
 <!-- pages/tocky.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -62,6 +86,8 @@ twitter_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
       {% include tocky_item.liquid tocky_item=tocky_item %}
     {% endfor %}
   </div>
+
 {% endif %}
 {% endif %}
+
 </div>

@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Introducing key publications from the Ono lab.
+description: Introducing key publications from the Ono lab. Find a hidden magical Tocky mouse on this page!
 nav: true
 nav_order: 3
 display_categories: [primary research, review and opinion]
@@ -12,10 +12,27 @@ twitter_image: https://monotockylab.github.io/assets/img/MonoTockyLab.png
 ---
 
 <div class="row mt-3">
-     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tocky/TockyMouse.jpg" width="200" height="auto"  zoomable=true %}
-    </div>
+  <!-- First image: JPEG -->
+  <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+    {% include figure.liquid
+       path="assets/img/tocky/TockyMouse.jpg"
+       width="200"
+       height="auto"
+       zoomable=true %}
+  </div>
+
+  <!-- Second image: SVG animation -->
+  <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+    <object
+      class="svg-figure"
+      type="image/svg+xml"
+      data="{{ '/assets/svg/mouse.svg' | relative_url }}"
+      aria-label="Tocky draw animation"
+      style="max-width:300px; width:150%; height:auto;">
+    </object>
+  </div>
 </div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
