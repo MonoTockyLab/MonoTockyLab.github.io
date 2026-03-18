@@ -1,3 +1,67 @@
+@article{Hassan2026,
+   author = {Hassan, Jehanne and Reda, Omnia and Irie, Nobuko and Pedersen, Malin and Foo, Shane and Appleton, Lizzie and Okazaki, Il-mi and Okazaki, Taku and Satou, Yorifumi and Harrington, Kevin and Melcher, Alan and Ono, Masahiro},
+   title = {Temporal Mechanisms of T-Cell Fate Decisions under Immune Checkpoint Blockade Resolved by CanonicalTockySeq},
+   journal = {bioRxiv},
+   pages = {2026.03.10.710825},
+   abstract = {In cancer immunotherapy, T-cell functional states change dynamically, and no single marker or gene fully defines them. Static molecular profiles may therefore be insufficient to resolve these states. Capturing signalling history together with ongoing activity could provide a temporal framework for their dissection. Here, we developed CanonicalTockySeq, which integrates a molecular clock of T-cell receptor (TCR) signalling based on the Fluorescent Timer reporter Nr4a3-Tocky (Timer-of-cell-kinetics-and-activity) with scRNA-seq to establish an experimentally anchored temporal reference. Using landmark Tocky fractions as biological ground truths, CanonicalTockySeq constructs a transcriptomic manifold in canonical space with conical geometry. In a murine melanoma model treated with combination anti-PD-L1 and anti-CTLA-4, this framework separates temporal progression (geodesic angle) from signalling strength (radial intensity), enabling time-resolved analysis of gene-expression programmes at single-cell resolution. Application to scRNA-seq data from patients with melanoma further identifies distinct temporal programmes associated with clinical response. These analyses indicate that effective combination immunotherapy is associated with decreased persistence of antigen engagement, suppression of exhaustion-associated TCR signalling programmes, and maintenance of progenitor-like features linked to durable antitumour responses. Collectively, our findings identify temporal-state control as a key component of immunotherapy outcome and establish CanonicalTockySeq as a framework for resolving T-cell response states in vivo.Competing Interest StatementA patent application related to the method described in this study has been filed.CRUK, DCRPGF\100007, CRM183X, A23275Japan Society for the Promotion of Science (JSPS), JP21K07082, JP21H00433, JP24K10259, JP25K02693, JP25K22556Japan Agency for Medical Research and Development (AMED), 25gm1810001s0104, 25gm1810001h0004, JP223fa627001, JP23wm0325068, JP25fk0410070, JP29jf0126018},
+   DOI = {10.64898/2026.03.10.710825},
+   html = {https://www.biorxiv.org/content/biorxiv/early/2026/03/12/2026.03.10.710825.full.pdf},
+   year = {2026},
+   type = {Journal Article},
+   selected = {true}
+}
+
+@article{Irie2025,
+   author = {Irie, Nobuko and Takeda, Naoki and Satou, Yorifumi and Araki, Kimi and Ono, Masahiro},
+   title = {Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer},
+   journal = {Nature Communications},
+   volume = {16},
+   number = {1},
+   pages = {5720},
+   abstract = {Investigating the temporal dynamics of gene expression is crucial for understanding gene regulation across various biological processes. Using the Fluorescent Timer protein, the Timer-of-cell-kinetics-and-activity system enables analysis of transcriptional dynamics at the single-cell level. However, the complexity of Timer fluorescence data has limited its broader application. Here, we introduce an integrative approach combining molecular biology and machine learning to elucidate Foxp3 transcriptional dynamics through flow cytometric Timer analysis. We have developed a convolutional neural network-based method that incorporates image conversion and class-specific feature visualisation for class-specific feature identification at the single-cell level. Biologically, we developed a novel CRISPR mutant of Foxp3 fluorescent Timer reporter mice lacking the enhancer Conserved Non-coding Sequence 2, which revealed new roles of this enhancer in regulating Foxp3 transcription frequency under specific conditions. Furthermore, analysis of wild-type Foxp3 fluorescent Timer reporter mice at different ages uncovered distinct patterns of Foxp3 expression from neonatal to aged mice, highlighting prominent thymus-like features of neonatal splenic Foxp3+ T cells. In conclusion, our study uncovers previously unrecognised Foxp3 transcriptional dynamics, establishing a proof-of-concept for integrating CRISPR, single-cell dynamics analysis, and machine learning methods as advanced techniques to understand transcriptional dynamics in vivo.},
+   ISSN = {2041-1723},
+   DOI = {10.1038/s41467-025-61279-y},
+   html = {https://doi.org/10.1038/s41467-025-61279-y},
+   year = {2025},
+   type = {Journal Article},
+   selected = {true}
+}
+
+
+
+@article{RN500,
+   author = {Ono, Masahiro},
+   title = {TockyLocus: quantitative analysis of flow cytometric fluorescent timer data in Nr4a3-Tocky and Foxp3-Tocky mice},
+   journal = {Biol Methods Protoc},
+   volume = {10},
+   number = {1},
+   pages = {bpaf060},
+   note = {2396-8923
+Ono, Masahiro
+Orcid: 0000-0002-9284-7326
+Journal Article
+England
+2025/09/29
+Biol Methods Protoc. 2025 Aug 26;10(1):bpaf060. doi: 10.1093/biomethods/bpaf060. eCollection 2025.},
+   abstract = {Fluorescent Timer proteins undergo a time-dependent shift from blue to red fluorescence after translation, providing a temporal record of transcriptional activity in Timer reporter systems. While Timer proteins are well suited for studying dynamic cellular processes such as T cell activation using the Timer-of-Cell-Kinetics-and-Activity (Tocky) framework, quantitative analysis of Timer-based flow cytometry data has yet to be fully standardized. In this study, we optimize quantitative analysis methods for the key parameter within the Tocky framework, Timer Angle, and introduce TockyLocus, an open-source R package that implements a five-category scheme based on biologically grounded angular intervals (designated as Tocky Loci). This approach is validated using both simulated and experimental datasets and enables downstream statistical testing and visualization of transcriptional dynamics in flow cytometry data. Using computational modelling of Timer protein kinetics, we define transcriptional dynamics in relation to key anchoring points in Timer Angle values at 0° , 45° , and 90° . Comprehensive simulations with synthetic spike-in datasets further demonstrate the robustness of the five-locus approach, which captures the three key points and the intermediate regions between these points. Building on the TockyPrep preprocessing framework, we systematically evaluated categorization schemes ranging from three to seven loci on real-world datasets from Nr4a3-Tocky and Foxp3-Tocky mice. The five-locus model emerged as optimal, showing significant advantages in balancing biological interpretability and statistical robustness. Optimized algorithms implemented in the TockyLocus package now standardize quantitative analysis of Timer Angle data, enabling reproducible interpretation without reliance on arbitrary gating or complex assumptions. In summary, the five-locus categorization of Timer Angle data effectively links underlying biological dynamics to the percentage of cells in each Tocky Locus, providing a robust and interpretable framework for investigating transcriptional dynamics in immunology and related fields.},
+   keywords = {Fluorescent Timer
+Foxp3
+Nr4a3
+T cell receptor signalling
+Tocky
+flow cytometry},
+   ISSN = {2396-8923},
+   DOI = {10.1093/biomethods/bpaf060},
+   html = {https://10.1093/biomethods/bpaf060},
+   year = {2025},
+   type = {Journal Article},
+   selected = {true}
+}
+
+
+
+
+
 @article{tockyprep2025,
    author = {Ono, Masahiro},
    title = {TockyPrep: data preprocessing methods for flow cytometric fluorescent timer analysis},

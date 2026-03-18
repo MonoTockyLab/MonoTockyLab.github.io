@@ -156,6 +156,27 @@
   ],
   "publications": [
     {
+      "name": "Temporal Mechanisms of T-Cell Fate Decisions under Immune Checkpoint Blockade Resolved by CanonicalTockySeq",
+      "publisher": "bioRxiv",
+      "releaseDate": "2026-03-18",
+      "url": "https://doi.org/10.64898/2026.03.10.710825",
+      "summary": "Introduces CanonicalTockySeq, a framework that integrates Nr4a3-Tocky Fluorescent Timer signalling history with single-cell RNA-seq to resolve dynamic T-cell states in cancer immunotherapy."
+    },
+    {
+      "name": "TockyLocus: quantitative analysis of flow cytometric fluorescent timer data in Nr4a3-Tocky and Foxp3-Tocky mice",
+      "publisher": "Biology Methods and Protocols",
+      "releaseDate": "2025-07-02",
+      "url": "https://doi.org/10.1093/biomethods/bpaf060",
+      "summary": "Introduces TockyLocus, an open-source framework for the quantitative and standardised analysis of Fluorescent Timer flow cytometry data, enabling reproducible statistical testing without arbitrary gating."
+    },
+    {
+      "name": "Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer",
+      "publisher": "Nature Communications",
+      "releaseDate": "2025-07-01",
+      "url": "https://doi.org/10.1038/s41467-025-61279-y",
+      "summary": "Presents a new framework for decoding temporal transcriptional dynamics from Fluorescent Timer data using an integrative combination of molecular genetics, flow cytometry, and a ConvNet-based machine learning approach."
+    },
+    {
       "name": "A multidimensional toolkit for elucidating temporal trajectories in cell development in vivo",
       "publisher": "Development",
       "releaseDate": "2024-11-29",
