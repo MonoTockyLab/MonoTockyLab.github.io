@@ -156,9 +156,16 @@
   ],
   "publications": [
     {
-      "name": "Temporal Mechanisms of T-Cell Fate Decisions under Immune Checkpoint Blockade Resolved by CanonicalTockySeq",
+      "name": "Canonical Analysis of Fluorescent Timer-Anchored Transcriptomes Resolves Joint Temporal and Developmental Progression",
       "publisher": "bioRxiv",
       "releaseDate": "2026-03-18",
+      "url": "https://doi.org/10.64898/2026.03.16.711988",
+      "summary": "Introduces mCanonicalTockySeq, a framework that uses Nr4a3-Tocky Fluorescent Timer-anchored transcriptomes to analyse temporal and developmental progression together in single-cell data."
+    },
+    {
+      "name": "Temporal Mechanisms of T-Cell Fate Decisions under Immune Checkpoint Blockade Resolved by CanonicalTockySeq",
+      "publisher": "bioRxiv",
+      "releaseDate": "2026-03-13",
       "url": "https://doi.org/10.64898/2026.03.10.710825",
       "summary": "Introduces CanonicalTockySeq, a framework that integrates Nr4a3-Tocky Fluorescent Timer signalling history with single-cell RNA-seq to resolve dynamic T-cell states in cancer immunotherapy."
     },
