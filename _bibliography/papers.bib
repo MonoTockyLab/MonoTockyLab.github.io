@@ -29,6 +29,19 @@
   selected = {true}
 }
 
+@article{ChanWahHak2026.03.10.710795,
+  title = {Addition of chemotherapy to radiotherapy promotes progenitor-exhausted CD8$^{+}$ T-cell clonal dominance in head and neck cancer},
+  elocation-id = {2026.03.10.710795},
+  year = {2026},
+  doi = {10.64898/2026.03.10.710795},
+  html = {https://www.biorxiv.org/content/early/2026/03/12/2026.03.10.710795},
+  eprint = {https://www.biorxiv.org/content/early/2026/03/12/2026.03.10.710795.full.pdf},
+  journal = {bioRxiv},
+  publisher = {Cold Spring Harbor Laboratory},
+  abstract = {Concomitant chemoradiotherapy (CRT) is a standard-of-care for unresectable locally-advanced head and neck squamous cell carcinoma (LA-SCCHN), but its immune effects, particularly compared to radiotherapy (RT) alone, remain unclear. Using syngeneic murine models, we integrated Nr4a3-Tocky reporter analysis with single-cell transcriptomics and T-cell receptor clonotyping comprehensively to profile intratumoural CD8$^{+}$ T-cells following RT/CRT. We show that CRT uniquely drives robust antigen-specific clonal expansion and biases differentiation toward progenitor (or precursor) exhausted (TPEX) phenotypes, while RT favours terminal exhaustion (TEX). Single-cell analyses reveal CRT-induced clonal dominance within TPEX subsets, suggesting the potential for enhanced immune reinvigoration. In peripheral blood mononuclear cells (PBMCs) from patients treated with CRT, high levels of TEX cells were found early and at 3 months post-treatment, with delayed peripheral TPEX expansion at 3 months, indicating phased progenitor recovery. These findings demonstrate distinct immunological remodelling by CRT versus RT and underscore the critical importance of treatment timing for optimising combination immunotherapy strategies in LA-SCCHN.},
+  selected = {false}
+}
+
 @article{Irie2025,
   author = {Irie, Nobuko and Takeda, Naoki and Satou, Yorifumi and Araki, Kimi and Ono, Masahiro},
   title = {Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer},
@@ -43,6 +56,23 @@
   publisher = {Springer Nature},
   abstract = {Investigating the temporal dynamics of gene expression is crucial for understanding gene regulation across various biological processes. Using the Fluorescent Timer protein, the Timer-of-cell-kinetics-and-activity system enables analysis of transcriptional dynamics at the single-cell level. However, the complexity of Timer fluorescence data has limited its broader application. Here, we introduce an integrative approach combining molecular biology and machine learning to elucidate Foxp3 transcriptional dynamics through flow cytometric Timer analysis. We have developed a convolutional neural network-based method that incorporates image conversion and class-specific feature visualisation for class-specific feature identification at the single-cell level. Biologically, we developed a novel CRISPR mutant of Foxp3 fluorescent Timer reporter mice lacking the enhancer Conserved Non-coding Sequence 2, which revealed new roles of this enhancer in regulating Foxp3 transcription frequency under specific conditions. Furthermore, analysis of wild-type Foxp3 fluorescent Timer reporter mice at different ages uncovered distinct patterns of Foxp3 expression from neonatal to aged mice, highlighting prominent thymus-like features of neonatal splenic Foxp3+ T cells. In conclusion, our study uncovers previously unrecognised Foxp3 transcriptional dynamics, establishing a proof-of-concept for integrating CRISPR, single-cell dynamics analysis, and machine learning methods as advanced techniques to understand transcriptional dynamics in vivo.},
 	note = {Introduces TockyConvNet, a deep-learning framework that reveals enhancer-dependent and age-dependent Foxp3 transcriptional dynamics from fluorescent Timer data.},
+  selected = {true}
+}
+
+@article{Ono2025GatingTree,
+  author = {Ono, Masahiro},
+  title = {GatingTree: Pathfinding Analysis of Group-Specific Effects in Cytometry Data},
+  journal = {Cytometry Part A},
+  volume = {107},
+  number = {7},
+  pages = {476--496},
+  year = {2025},
+  doi = {10.1002/cyto.a.24948},
+  html = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24948},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cyto.a.24948},
+  publisher = {Wiley},
+  abstract = {Advancements in cytometry technologies have led to a remarkable increase in the number of markers that can be analyzed simultaneously, presenting significant challenges in data analysis. Traditional approaches, such as dimensional reduction techniques and computational clustering, although popular, often face reproducibility challenges due to their heavy reliance on inherent data structures. This reliance prevents the direct translation of their outputs into gating strategies for downstream experiments. Here, we propose the novel Gating Tree methodology, a pathfinding approach that investigates the multidimensional data landscape to unravel group-specific features without the use of dimensional reduction. This method employs novel measures, including enrichment scores and gating entropy, to effectively identify group-specific features within high-dimensional cytometric data sets. Our analysis, applied to both simulated and real cytometric data sets, demonstrates that the Gating Tree not only identifies group-specific features comprehensively but also produces outputs that are immediately usable as gating strategies for pinpointing key cell populations. Furthermore, by integrating machine learning methods, including Random Forest, we have benchmarked Gating Tree against existing methods, demonstrating its superior performance. A range of supervised and unsupervised methods implemented in Gating Tree thus provides effective visualization and output data, which can be immediately used as successive gating strategies for downstream study.},
+  note = {Introduces GatingTree, a pathfinding framework for identifying group-specific cytometry features and deriving practical gating strategies without dimensional reduction.},
   selected = {true}
 }
 
@@ -78,6 +108,56 @@
   publisher = {BioMed Central},
   abstract = {Fluorescent Timer proteins, which display time-dependent changes in their emission spectra, are invaluable for analyzing the temporal dynamics of cellular events at the single-cell level. We previously developed the Timer-of-cell-kinetics-and-activity (Tocky) tools, utilizing a specific Timer protein, Fast-FT, to monitor temporal changes in cellular activities. Despite their potential, the analysis of Timer fluorescence in flow cytometry is frequently compromised by variability in instrument settings and the absence of standardized preprocessing methods. The development and implementation of effective data preprocessing methods remain to be achieved.},
     note = {Establishes TockyPrep, standardizing normalization and trigonometric transformation of fluorescent Timer flow cytometry data for reproducible quantitative analysis.},
+  selected = {true}
+}
+
+@article{Stadinski2025,
+  author = {Stadinski, Brian D. and Mills, Elizabeth A. and Humphries, Preston A. and Cleveland, Sarah B. and Dow, Parker and Murakami, Kaoru and Li, Yue Ru and Murakami, Masaaki and Ono, Masahiro and Au-Yeung, Byron B. and Morris, Gerald P. and Zúñiga-Pflücker, Juan Carlos and Campbell, Robert A. and Griffiths, Eric R. and Huseby, Eric S. and Lo, Wan-Lin},
+  title = {Age-dependent Zap70 expression in thymocytes regulates selection of the neonatal regulatory T cell repertoire},
+  journal = {Nature Immunology},
+  volume = {26},
+  number = {12},
+  pages = {2256--2269},
+  year = {2025},
+  doi = {10.1038/s41590-025-02292-7},
+  issn = {1529-2916},
+  html = {https://doi.org/10.1038/s41590-025-02292-7},
+  publisher = {Springer Nature},
+  abstract = {The Foxp3⁺ regulatory T (Treg) cell repertoire carries age-dependent biases, with neonatal subsets enriched for highly self-reactive clones. However, the thymocyte features distinguishing neonatal from adult Treg selection remain unclear. Here, we show that neonatal double-positive mouse thymocytes, unlike their adult counterparts, fail to upregulate Zap70 during thymic selection, creating a calcium signaling bottleneck. This attenuated Zap70-dependent signaling limits negative selection, allowing highly self-reactive clones to evade deletion. Modulating Zap70 expression alters this balance; reducing Zap70 in adults rescues development of these clones, whereas increasing Zap70 in neonates enforces their deletion. Similarly, enhancing neonatal calcium signaling via increased LAT Y136-mediated PLCγ1 activation promotes clonal deletion. Analysis of pediatric human thymi reveals that ZAP70 expression remains low during the first year of life, aligning with the peak window for thymic Treg cell development. These findings suggest that age-dependent Zap70 expression regulates negative selection and thymic Treg cell development.},
+  selected = {true}
+}
+
+@article{ChanWahHak2025CRC,
+  author = {Chan Wah Hak, Charleen and Patin, Emmanuel C. and Patrikeev, Anton and Nicastri, Annalisa and Kozik, Zuza and Baldock, Holly and Kyula-Currie, Joan N. and Roulstone, Victoria and Wongariyapak, Amarin and Gifford, Valentina and Tenev, Tencho and Appleton, Elizabeth S. and Hubbard, Lisa C. and Foo, Shane and Pedersen, Malin and Choudhary, Jyoti S. and Ono, Masahiro and Melcher, Alan A. and Rullan, Antonio and Harrington, Kevin J.},
+  title = {Xevinapant plus Chemoradiotherapy Negatively Sculpts the Tumor-Immune Microenvironment in Head and Neck Cancer},
+  journal = {Cancer Research Communications},
+  volume = {5},
+  number = {11},
+  pages = {2079--2091},
+  year = {2025},
+  month = {11},
+  doi = {10.1158/2767-9764.CRC-25-0604},
+  issn = {2767-9764},
+  html = {https://doi.org/10.1158/2767-9764.CRC-25-0604},
+  eprint = {https://aacrjournals.org/cancerrescommun/article-pdf/5/11/2079/3707940/crc-25-0604.pdf},
+  publisher = {American Association for Cancer Research},
+  abstract = {Despite hugely promising randomized phase II study data, combined CRT plus xevinapant failed in the TrilynX phase III clinical trial in locally advanced SCCHN. We show that adding xevinapant to chemoradiotherapy in vivo dysregulates antitumor lymphocyte function, acute-phase proteins, and cell death pathways, with net immunosuppressive effects on the tumor-immune microenvironment.},
+  selected = {true}
+}
+
+@article{Sugata2025,
+  author = {Sugata, Kenji and Rahman, Akhinur and Niimura, Koki and Monde, Kazuaki and Ueno, Takaharu and Rajib, Samiul Alam and Takatori, Mitsuyoshi and Sakhor, Wajihah and Hossain, Md Belal and Sithi, Sharmin Nahar and Jahan, M. Ishrat and Matsuda, Kouki and Ueda, Mitsuharu and Yamano, Yoshihisa and Ikeda, Terumasa and Ueno, Takamasa and Tsuchiya, Kiyoto and Tanaka, Yuetsu and Tokunaga, Masahito and Maeda, Kenji and Utsunomiya, Atae and Okuma, Kazu and Ono, Masahiro and Satou, Yorifumi},
+  title = {Intragenic viral silencer element regulates HTLV-1 latency via RUNX complex recruitment},
+  journal = {Nature Microbiology},
+  volume = {10},
+  number = {6},
+  pages = {1447--1462},
+  year = {2025},
+  doi = {10.1038/s41564-025-02006-7},
+  issn = {2058-5276},
+  html = {https://doi.org/10.1038/s41564-025-02006-7},
+  publisher = {Springer Nature},
+  abstract = {Retroviruses integrate their genetic material into the host genome, enabling persistent infection. Human T cell leukaemia virus type 1 (HTLV-1) and human immunodeficiency virus type 1 (HIV-1) share similarities in genome structure and target cells, yet their infection dynamics differ drastically. While HIV-1 leads to high viral replication and immune system collapse, HTLV-1 establishes latency, promoting the survival of infected cells and, in some cases, leading to leukaemia. The mechanisms underlying this latency preference remain unclear. Here we analyse blood samples from people with HTLV-1 and identify an open chromatin region within the HTLV-1 provirus that functions as a transcriptional silencer and regulates transcriptional burst. The host transcription factor RUNX1 binds to this open chromatin region, repressing viral expression. Mutation of this silencer enhances HTLV-1 replication and immunogenicity, while its insertion into HIV-1 suppresses viral production. These findings reveal a strategy by which HTLV-1 ensures long-term persistence, offering potential insights into retroviral evolution and therapeutic targets.},
   selected = {true}
 }
 

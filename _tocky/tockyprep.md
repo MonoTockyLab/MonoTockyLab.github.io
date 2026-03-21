@@ -46,19 +46,15 @@ The **TockyPrep** R package provides data preprocessing methods for Fluorescent 
 Specifically, the **TockyPrep** package provides essential data preprocessing methods for analyzing Fluorescent Timer data:
 
 1. **Timer Fluorescence Normalization**:
-
    - This feature corrects for any instrumental biases that may affect the fluorescence readings, ensuring that the measurements of Timer Blue and Timer Red fluorescence are accurate and comparable across different experimental setups. This normalization is crucial for accurate assessment of the maturation state of the Timer protein, as it adjusts for variability in the signal intensity between different cells and samples.
 
 2. **Timer Fluorescence Thresholding**:
-
    - To enhance the reliability of Timer data analysis, this method filters out background noise by setting thresholds that distinguish between Timer-positive and Timer-negative cells. This is vital for focusing the analysis on cells that express the Timer protein, thereby eliminating data points that could distort the interpretation of temporal dynamics.
 
 3. **Trigonometric Transformation**:
-
    - This transformation computes two new metrics, Timer Angle and Timer Intensity, from the normalized fluorescence data. These metrics are pivotal for quantifying the dynamics of Timer protein maturation within cells, providing insights into the timing and progression of cellular events.
 
 4. **Sample Definition**:
-
    - **TockyPrep** aids in organizing and labeling flow cytometry data files for streamlined analysis. It automates the identification of sample groups and control samples, facilitating more efficient subsequent data analyses.
 
 5. **Visualization Tools**:

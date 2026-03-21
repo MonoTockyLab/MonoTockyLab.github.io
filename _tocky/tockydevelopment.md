@@ -64,17 +64,14 @@ The aim of the **TockyDevelopment** package is to offer functions for analyzing 
 The **TockyDevelopment** package offers functions for analyzing the temporal dynamics of developing cells during development, utilizing Fluorescent Timer protein reporters, cross-analyzing Timer data and multidimensional marker expression profiles. The package enables identification of time-dependent trajectories using Fluorescent Timer data.
 
 1. **Integrative Analysis with TockyCCA**
-
    - Implements TockyCCA, a variant of Canonical Correspondence Analysis (CCA) optimized for multidimensional flow cytometric data involving Fluorescent Timer proteins.
    - Allows integrative analysis of marker expression profiles and Timer progression without centering the environmental variables (Timer Angle and Intensity), preserving their directional and magnitude properties.
 
 2. **Network Analysis of Cell Clusters**
-
    - Analyzes TockyCCA outputs using network analysis to elucidate relationships between cell clusters.
    - Identifies potential developmental trajectories by examining the connectivity and transitions between clusters.
 
 3. **Pathfinding Analysis with Dijkstra-Tocky Algorithm**
-
    - Employs a novel pathfinding algorithm, **Dijkstra-Tocky**, to identify time-dependent trajectories based on network analysis outputs.
    - Pinpoints developmental paths by finding the shortest paths in the network, representing the most probable sequences of cellular transitions.
 
