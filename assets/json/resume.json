@@ -235,13 +235,16 @@
     {
       "name": "Tocky",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Transgenic Systems Development", "Data Analysis: Linear Algebra and Multidimensional Analysis", "Bioinformatics for Flow Cytometric Analysis"]
+      "keywords": [
+        "Transgenic Systems Development",
+        "Data Analysis: Linear Algebra and Multidimensional Analysis",
+        "Bioinformatics for Flow Cytometric Analysis"
+      ]
     },
     {
       "name": "Canonical Tocky Analysis",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Redundancy Analysis", "Fluorescent Timer-Anchored Transcriptomics", "Single-Cell RNA-seq Analysis"
-      ]
+      "keywords": ["Redundancy Analysis", "Fluorescent Timer-Anchored Transcriptomics", "Single-Cell RNA-seq Analysis"]
     },
     {
       "name": "Application of Canonical Correspondence Analysis (CCA) for Genomic Studies",
