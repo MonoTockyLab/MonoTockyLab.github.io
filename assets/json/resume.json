@@ -184,11 +184,25 @@
       "summary": "Presents a new framework for decoding temporal transcriptional dynamics from Fluorescent Timer data using an integrative combination of molecular genetics, flow cytometry, and a ConvNet-based machine learning approach."
     },
     {
+      "name": "TockyPrep: data preprocessing methods for flow cytometric fluorescent timer analysis",
+      "publisher": "BMC Bioinformatics",
+      "releaseDate": "2025-01-22",
+      "url": "https://doi.org/10.1186/s12859-025-06058-8",
+      "summary": "Establishes TockyPrep, standardizing fluorescent Timer flow cytometry preprocessing for reproducible quantitative analysis."
+    },
+    {
       "name": "A multidimensional toolkit for elucidating temporal trajectories in cell development in vivo",
       "publisher": "Development",
       "releaseDate": "2024-11-29",
       "url": "https://doi.org/10.1242/dev.204255",
       "summary": "This study established innovative computational methods that exploit the power of Tocky technology to decipher time-dependent processes in cellular development using Canonical Correspondence Analysis and Network Analysis."
+    },
+    {
+      "name": "Control of regulatory T-cell differentiation and function by T-cell receptor signalling and Foxp3 transcription factor complexes",
+      "publisher": "Immunology",
+      "releaseDate": "2020-03-12",
+      "url": "https://doi.org/10.1111/imm.13178",
+      "summary": "A cutting-edge review proposing an integrated mechanistic framework for how TCR signalling and Foxp3 complexes control regulatory T-cell differentiation and function."
     },
     {
       "name": "A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo",
@@ -221,10 +235,12 @@
     {
       "name": "Tocky",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Transgenic Systems Development",
-        "Data Analysis: Linear Algebra and Multidimensional Analysis",
-        "Bioinformatics for Flow Cytometric Analysis"
+      "keywords": ["Transgenic Systems Development", "Data Analysis: Linear Algebra and Multidimensional Analysis", "Bioinformatics for Flow Cytometric Analysis"]
+    },
+    {
+      "name": "Canonical Tocky Analysis",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Redundancy Analysis", "Fluorescent Timer-Anchored Transcriptomics", "Single-Cell RNA-seq Analysis"
       ]
     },
     {
