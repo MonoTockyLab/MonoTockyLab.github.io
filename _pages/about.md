@@ -44,7 +44,7 @@ His work combines molecular immunology, flow cytometry, genomics, and computatio
   <div class="col-sm-8">
     <img-comparison-slider>
       {% include figure.liquid path="assets/img/sakura/sakura1.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-      {% include figure.liquid path="assets/img/sakura/sakura2.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+      {% include figure.liquid path="assets/img/sakura/sakura2.jpeg" class="img-fluid rounded z-depth-1" slot="second" %}
     </img-comparison-slider>
   </div>
 
