@@ -3,6 +3,9 @@ layout: page
 title: Talks
 permalink: /talks/
 description: Selected talks and seminars
+nav: true
+nav_order: 6
+
 ---
 
 ### 2023
