@@ -3,7 +3,7 @@ layout: page
 title: Access
 permalink: /access/
 map: true
-nav: true
+nav: false
 nav_order: 7
 ---
 
